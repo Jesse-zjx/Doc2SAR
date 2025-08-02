@@ -1,0 +1,7 @@
+Unnamed: 0,SMILES,ΔpIC50,Δefficacy
+Example 5,COc1ccc(Oc2cc(NCC3CCOCC3)c3ncc(-c4ccc(C(=O)NC5CC5)c(C)c4)n3n2)c(F)c1F,-0.17,-26
+Example 8,COc1cc(Br)ccc1Nc1ncc2c(n1)-n1ccc(C(=O)Nc3c(C)cccc3C)c1CC2,-0.29,-11
+Example 12,CCc1n[nH]c(CC)c1NC(=O)c1ccn2c1CCc1cnc(Nc3ccc(N4CCN(C)CC4)cc3OC(F)F)nc1-2,-0.14,-18
+Example 13,CCc1nn(CCOCCOCCOC)c(CC)c1NC(=O)c1ccn2c3c(cnc12)CCc1cnc(Nc2ccc(N4CCN(C(=O)COC)CC4)cc2OC)nc1-3,-0.01,-27
+Example 17,COCC(=O)N1CCN(c2ccc(Nc3ncc4c(n3)-n3ccc(C(=O)Nc5c(C)cccc5C)c3CC4)c(OC)c2)CC1,-0.12,-16
+Example 20,COCCOCCOCCn1nc(C)c(NC(=O)c2ccn3c4c(cnc23)CCc2cnc(Nc3ccc(N5CCN(C(=O)COC)CC5)cc3OC)nc2-4)c1C,-0.2,-34

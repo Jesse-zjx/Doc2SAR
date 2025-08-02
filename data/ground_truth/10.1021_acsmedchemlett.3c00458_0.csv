@@ -1,0 +1,7 @@
+Example No.,SMILES,PARP7 IC50 (nM)
+185,C(F)(F)(F)c1c(N[C@@H](C)CCCn2ccc3cc(-c4ncc5c(n4)NC(=O)CO5)c(F)cc3c2=O)cn[nH]c1=O,0.11
+203,C(F)(F)(F)c1c(N[C@@H](C)CCCn2ccc3cc(-c4ncc(Cl)c(N)n4)c(F)cc3c2=O)cn[nH]c1=O,0.188
+206,c1(C(F)(F)F)cnc(-c2cc3ccn(CCC[C@@H](C)Nc4cn[nH]c(=O)c4C(F)(F)F)c(=O)c3cc2F)nc1N1CC(C#N)C1,0.188
+314,c1(C(F)(F)F)cnc(-c2cc3ccn(CCC[C@@H](C)Nc4cn[nH]c(=O)c4C(F)(F)F)c(=O)c3cc2F)nc1N1C[C@H](O)[C@H]1C,0.185
+377,c1(C(F)(F)F)c(N[C@H](CCCn2ccc3cc(-c4ncc(C(F)F)cn4)c(F)cc3c2=O)COC(F)F)cn[nH]c1=O,0.179
+379,c1(C(F)(F)F)cnc(-c2cc3ccn(CCC[C@@H](COC(F)F)Nc4cn[nH]c(=O)c4C(F)(F)F)c(=O)c3cc2F)nc1N,0.14

@@ -1,0 +1,7 @@
+Compound No.,SMILES,SHP2 IC50 (nM)
+183,Cc1nc(N2CCC3(CC2)Cc2ncccc2[C@H]3N)c2ccnn2c1-c1ccc2c(c1)OCCO2,3
+186,Cc1ccc(-c2c(C)nc(N3CCC4(CC3)Cc3ncccc3[C@H]4N)c3ccnn23)c(F)c1,2
+192,Cc1nc(N2CCC3(CC2)Cc2ncccc2[C@H]3N)c2ccnn2c1-c1cccc(Cl)c1Cl,2
+193,Cc1nc(N2CCC3(CC2)Cc2ncccc2[C@H]3N)c2ccnn2c1-c1ccc(F)cc1F,3
+208,Cc1nc(N2CCC3(CC2)Cc2ncccc2[C@H]3N)c2ccnn2c1-c1ccc(F)c2cc[nH]c12,3
+222,Cc1nc(N2CCC3(CC2)Cc2nc(O)ccc2[C@H]3N)c2ccnn2c1-c1cccc(F)c1F,1

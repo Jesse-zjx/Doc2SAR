@@ -1,0 +1,26 @@
+名称,SMILES,EC50 (µM)
+MBCQ,Clc1ccc2ncnc(NCc3ccc4c(c3)OCO4)c2c1,0.788
+C16,Clc1ccc2ncnc(NCCc3ccccc3)c2c1,0.79
+C24,N(=O)([O-])c1ccc2ncnc(NCc3ccc(F)cc3)c2c1,0.28
+C25,Clc1ccc(CNc2ncnc3ccc(Cl)cc23)cc1,0.36
+C27,Clc1ccc(CNc2ncnc3ccccc23)cc1,1.21
+C31,Fc1ccc(CNc2ncnc3ccc(I)cc23)cc1,0.66
+C32,Clc1ccc(CNc2ncnc3ccc(I)cc23)cc1,1.21
+C40,Fc1ccccc1CNc1ncnc2ccc(Cl)cc12,0.88
+A71,O(c1ccc(CCNc2ncnc3ccc(F)cc23)cc1)C(F)(F)F,0.056
+C43,Fc1ccc(CNc2ncnc3ccc(F)cc23)cc1,0.87
+C46,[N+](=O)([O-])c1ccc2ncnc(NCc3ccc(Cl)cc3)c2c1,0.35
+C50,Fc1ccc(CNc2ncnc3ccc(Cl)cc23)cc1F,1.11
+C55,Ic1ccc2ncnc(NCc3ccccc3)c2c1,0.23
+C64,Brc1ccc(CNc2ncnc3ccc(Br)cc23)cc1,0.78
+C79,[N+](=O)([O-])c1ccc2ncnc(NCCc3ccc4c(c3)OCO4)c2c1,1.27
+C80,[N+](=O)([O-])c1ccc2ncnc(NC(C)c3ccc(F)cc3)c2c1,0.79
+C95,C(F)(F)(F)c1cc(CNc2ncnc3ccccc23)ccc1Cl,0.968
+A9,Fc1ccc2ncnc(NCc3ccc(Cl)cc3)c2c1,0.736
+A30,Fc1ccc2ncnc(NCc3ccc4scnc4c3)c2c1,0.736
+A35,Fc1ccc2ncnc(NCCc3ccc(Cl)cc3)c2c1,0.0902
+A36,Fc1cccc(CCNc2ncnc3ccc(F)cc23)c1,0.448
+A37,Cc1ccc(CCNc2ncnc3ccc(F)cc23)cc1,0.096
+A38,C(F)(F)(F)c1ccccc1CCNc1ncnc2ccc(F)cc12,0.127
+A39,Fc1ccc2ncnc(NCCc3ccc(F)c(F)c3)c2c1,0.211
+A45,O(C)c1ccc(CCNc2ncnc3ccc(F)cc23)cc1,0.045

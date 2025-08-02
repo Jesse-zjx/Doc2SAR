@@ -1,0 +1,6 @@
+pIC50 of cycloheptyl (C7) compound,SMILES,"pIC50 of comparative compounds containing a cyclopentyl (C5), cyclohexyl (C6) or cyclooctyl (C8) ring in place of cycloheptyl (C7)",Unnamed: 2,Unnamed: 3
+C7,,C5,C6,C8
+10.2 (Ex. 1),O=C(O[C@@H]1CN2CCC1CC2)C1(c2ccccc2)CCCCCC1,8.7 (Comp Ex. 1),8.9 (Comp Ex. 4),9.1 (Comp Ex. 7)
+8.5 (Ex. 2),C[N+]12CCC(C1)[C@@H](OC(=O)C1(c3ccccc3)CCCCCC1)C2,7.4 (Comp Ex. 2),7.3 (Comp Ex. 5),7.4 (Comp Ex. 8)
+C7,,C5,C6,C8
+10.1 (Ex. 16),O=C(C[N+]12CCC(C1)[C@@H](OC(=O)C1(c3ccccc3)CCCCCC1)C2)Nc1cnccn1,9.5 (Comp Ex. 3),9.7 (Comp Ex. 6),9.5 (Comp Ex. 9)

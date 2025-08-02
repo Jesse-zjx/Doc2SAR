@@ -1,0 +1,7 @@
+Example No.,SMILES,ERK5 IC50 (nM)
+173,Nc1cc(OC(F)(F)F)ccc1C(=O)N1CCC(c2c(F)cnc3[nH]c(C4CCOCC4)nc23)CC1,6
+426,COC12CC(c3nc4c(C5CCN(C(=O)c6ccc(OC(F)(F)F)cc6)CC5)c(F)cnc4[nH]3)(C1)C2,10
+428,COC12CC(c3nc4c(C5CCN(C(=O)c6ccc(OC(F)(F)F)cc6N)CC5)c(F)cnc4[nH]3)(C1)C2,5
+443,CO[C@H]1CC[C@H](c2nc3c(C4CCN(C(=O)c5ccc(OC(F)(F)F)cc5)CC4)c(F)cnc3[nH]2)CC1,9
+447,COC(C)(C)c1nc2c(C3CCN(C(=O)c4ccc(OC(F)(F)F)cc4N)CC3)c(F)cnc2[nH]1,9
+460,CO[C@H]1CC[C@H](c2nc3c(C4CCN(C(=O)c5ccc(OC(F)(F)F)cc5N)CC4)c(F)cnc3[nH]2)CC1,9

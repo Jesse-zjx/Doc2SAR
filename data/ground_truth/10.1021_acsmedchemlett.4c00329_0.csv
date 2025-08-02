@@ -1,0 +1,13 @@
+﻿Example,SMILES,Human DGAT2 IC50 (nM)
+2,C(F)(F)COc1cc(Cl)cnc1Oc1ccc2nc(C(=O)NC3(C)CCS(=O)(=O)C(C)(C)C3)cn2c1,0.6
+3,CCOc1cccnc1Oc1ccc2nc(C(=O)NC3(C)CCS(=O)(=O)C(C)(C)C3)cn2c1,5.8
+4,C(F)(F)Oc1ccc(F)c(-c2nn(-c3ncc(F)cc3F)c3c2CC[C@@H](CC(=O)NC2(C)CS(=O)(=O)C2)C3)c1,0.33
+5,C(F)(F)(F)COc1cccnc1OC1C=CN2N=C(C(=O)NC3(C)CCS(=O)(=O)CC3)C(Cl)C2=C1,9.4
+6,C(Oc1cc(Cl)cnc1Oc1ccn2nc(C(=O)NC3(C)CCS(=O)(=O)CC3)c(Cl)c2c1)C(F)(F)F,1.6
+7,,0.8
+8,C(F)(F)Oc1cccc(-c2nn(-c3ccc(F)cc3)c3c2CC[C@H](C(=O)N[C@@]2(C)CCS(=O)(=O)C2)C3)c1,0.63
+9,C(F)(F)(F)COc1cc(Cl)cnc1Oc1ccc2nc(C(=O)NC3(C)CCS(=O)(=O)CC3)cn2c1,1.8
+10,CCOc1cccnc1Oc1ccc2nc(C(=O)NC3(C)CCS(=O)(=O)CC3)cn2c1,2.5
+11,C(Oc1cc(F)cnc1Oc1ccc2nc(C(=O)NC3(C)CCS(=O)(=O)CC3)cn2c1)C(F)(F)F,0.4
+12,C(F)(F)(F)COc1cc(Cl)cnc1Oc1ccn2nc(C(=O)NC3(C)CCS(=O)(=O)CC3)c(F)c2c1,0.5
+13,C(F)(F)COc1cc(F)cnc1Oc1ccc2nc(C(=O)NC3(C)CS(=O)(=O)C3)nn2c1,13

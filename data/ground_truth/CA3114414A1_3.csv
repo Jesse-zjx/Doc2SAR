@@ -1,0 +1,6 @@
+Example,SMILES,cAMP EC50 (µM),cAMP pIC50
+1,Fc1cnccc1-c1nnc(Nc2cccnc2)nc1-c1cccnc1,0.4,6.4
+2,Fc1cccc(Nc2nnc(-c3ccncc3F)c(-c3cccnc3)n2)c1,0.63,6.2
+3,Fc1cnccc1-c1nnc(Nc2nccs2)nc1-c1cccnc1,2,5.7
+6,Cc1nnc(Nc2nnc(-c3ccncc3F)c(-c3cccnc3)n2)s1,3.98,5.4
+7,CNC(=O)Nc1nnc(-c2ccncc2F)c(-c2cccnc2)n1,6.92,5.16

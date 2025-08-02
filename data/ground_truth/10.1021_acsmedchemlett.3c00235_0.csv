@@ -1,0 +1,7 @@
+Example No.,SMILES,Nav1.8 pIC50
+5,C(F)(F)(F)c1cc2c(cn1)N(c1ccc(F)cc1C(C)C)CN(c1ccc(=O)[nH]c1C)C2=O,7.2
+10,C(F)(F)(F)c1cc2c(cn1)N(c1ccc(F)c(F)c1CC)CN(c1ccc(=O)[nH]c1C)C2=O,7.5
+14,C(F)(F)(F)c1cc2c(cn1)N(c1ccc(F)cc1CC)CN(c1ccc(=O)[nH]c1C)C2=O,7.1
+16,C(F)(F)(F)Oc1ccc(N2CN(c3ccc(=O)[nH]c3C)C(=O)c3cc(C(F)(F)F)ncc32)c(C)c1,7.9
+17,C(F)(F)(F)c1cc2c(cn1)N(c1ccc(F)c(F)c1C)CN(c1ccc(=O)[nH]c1C)C2=O,7.2
+21,C(F)(F)(F)Oc1ccc(N2CN(c3cc(F)c(=O)[nH]c3C)C(=O)c3cc(C(F)(F)F)ncc32)c(C)c1,7.4

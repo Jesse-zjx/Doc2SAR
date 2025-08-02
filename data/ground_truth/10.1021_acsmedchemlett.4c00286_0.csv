@@ -1,0 +1,7 @@
+Example No.,SMILES,DGAT2 IC50 (nM)
+2,CC1(C)CC(C)(NC(=O)c2cn3cc(Oc4ncc(Cl)cc4OCC(F)F)ccc3n2)CCS1(=O)=O,0.6
+9,CC1(NC(=O)c2cn3cc(Oc4ncc(F)cc4OCC(F)(F)F)ccc3n2)CCS(=O)(=O)CC1,0.4
+63,Cc1c(C(=O)NC2(C)CC(F)(F)C2)nc2ccc(Oc3ncc(F)cc3OCC(F)F)cn12,0.6
+67,CCc1cnc(Oc2ccc3nc(C(=O)NC4(C)CCS(=O)(=O)CC4)c(C)n3c2)c(OCC(F)(F)F)c1,0.7
+72,CCOc1cc(Cl)cnc1Oc1ccc2nc(C(=O)NC3(C)CCS(=O)(=O)CC3)c(C)n2c1,0.7
+98,C(#N)CC1(NC(=O)c2nc3ccc(Oc4ncc(F)cc4OCC(F)F)cn3c2C)CN(C(=O)C(F)(F)F)C1,0.7

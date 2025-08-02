@@ -1,0 +1,7 @@
+Ex.No.,SMILES,APOL1 (G0) pIC50,APOL1 (G2) pIC50
+53,C(F)(F)(F)C1(c2cc(CCC(=O)N[C@@H]3C(=O)NC[C@H]3O)c(-c3ccc(Cl)cc3)[nH]2)CC1,8.6,8.4
+57,c1(C(F)(F)F)ccc(-c2[nH]c(C3(C(F)(F)F)CC3)cc2CCC(=O)N[C@@H]2C(=O)NC[C@H]2O)cc1,8.6,8.3
+189,O=C(CCc1cc(-c2c(F)cc(F)cc2F)[nH]c1-c1ccc(Cl)cc1)N[C@@H]1C(=O)NC[C@H]1O,8.5,8.4
+190,O=C(CCc1cc(-c2c(F)cc(F)cc2Cl)[nH]c1-c1ccc(Cl)cc1)N[C@@H]1C(=O)NC[C@H]1O,9.3,9.1
+204,C(F)(F)(F)C1(c2[nH]c(-c3ccc(Cl)cc3)c(CCC(=O)N[C@@H]3C(=O)NC[C@H]3O)c2F)CC1,8.7,8.3
+219,C(F)(F)(F)c1ccc(-c2[nH]c(C(C)(C)C)cc2CCC(=O)N[C@@H]2C(=O)NC[C@H]2O)cc1,8.8,8.3

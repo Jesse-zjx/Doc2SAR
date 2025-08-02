@@ -1,0 +1,6 @@
+화합물 또는 번호,SMILES,HCC1954 항증식 EC50(μM),MCF7 항증식 EC50(μM)
+"타셀리십 196(미국 특허 제 8,242,104호) GDC-0032",Cc1nc(-c2cn3c(n2)-c2ccc(-c4cnn(C(C)(C)C(N)=O)c4)cc2OCC3)n(C(C)C)n1,0.04,0.02
+필릴리십 GDC-0941,CS(=O)(=O)N1CCN(Cc2cc3nc(-c4cccc5[nH]ncc45)nc(N4CCOCC4)c3s2)CC1,0.75,0.12
+"436(미국 특허 제 8,242,104호)",CC(C)n1ncnc1-c1cn2c(n1)-c1ccc(O[C@@H](C)C(N)=O)cc1OCC2,0.35,0.09
+101,C[C@H](Nc1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3C(F)F)nc1-2)C(N)=O,0.06,0.03
+103,NC(=O)[C@@H](Nc1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3C(F)F)nc1-2)C1CC1,0.07,0.03

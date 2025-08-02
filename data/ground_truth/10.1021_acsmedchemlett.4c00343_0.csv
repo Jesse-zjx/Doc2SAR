@@ -1,0 +1,7 @@
+﻿Example No,SMILES,THP-1 IC50(nM)
+1,C(#N)c1cc(C)c(-c2cc3c(nn2)N([C@@H]2CCCN(CC)C2)CCO3)c(O)c1,3.4
+2,C(#N)c1cc(C)c(-c2cc3c(nn2)N([C@@H]2CCCN(CC)C2)CCC3)c(O)c1,4.8
+5,Cc1cc2c(c(O)c1-c1cc3c(nn1)N([C@@H]1CCCC[C@H]1O)CCO3)CCC2,10
+8,Cc1cc2c(c(O)c1-c1cc3c(nn1)N([C@@H]1CCCC[C@H]1O)CCO3)CCO2,11
+14,Cc1c(-c2ccc3c(c2O)CCC3)nnc2c1OCCN2[C@@H]1CCCC[C@H]1O,29
+15,Cc1c(-c2ccc3c(c2O)CC3)nnc2c1OCCN2[C@@H]1CCCC[C@H]1O,12

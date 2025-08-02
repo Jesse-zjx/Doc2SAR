@@ -1,0 +1,6 @@
+Compound,SMILES,MW (Da),IC50 ± S.D. (µM),pIC50,cLogP,IEI*,ILE**
+AT09-B00,Cc1oc(/C=C/c2ccc(Cl)o2)cc1C(=O)O,252,2.02 ± 0.22,5.69,2.92,22.6,2.77
+AT09-B06,Cc1c(C(=O)O)coc1/C=C/c1ccc(Cl)o1,252,2.49 ± 0.30,5.60,2.61,22.3,2.99
+Tafamidis,C1=CC2=C(C=C1C(=O)O)OC(=N2)C3=CC(=CC(=C3)Cl)Cl,307,3.10 ± 0.15,5.51,4.21,17.9,1.30
+2OH-PCB80,C1=C(C=C(C(=C1Cl)[O-])Cl)C2=CC(=C(C(=C2)Cl)[O-])Cl,322,1.59 ± 0.27,5.80,5.43,18.0,0.37
+T4,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)C[C@@H](C(=O)O)N,763,2.20 ± 0.03,5.66,5.70,7.4,-0.04

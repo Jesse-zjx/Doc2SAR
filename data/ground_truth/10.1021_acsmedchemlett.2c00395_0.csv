@@ -1,0 +1,11 @@
+Compound,SMILES,Arginase 1 IC50 nM,Arginase2 IC50 nM
+1,C(=O)(O)[C@@]1(N)C[C@H](CCB(O)O)CC[C@H]1CNC(=O)[C@@H](C)N,100-199,>300
+22,C(=O)(O)[C@]1(N)C[C@H](CCB(O)O)CC[C@H]1CNC(=O)[C@H](C)N,1-99,>300
+24,C(=O)(O)[C@]1(N)C[C@H](CCB(O)O)CC[C@H]1CN(C)C(=O)[C@H](C)N,100-199,>300
+2,CC([C@@H](C(NC[C@H]1[C@@](N)(C(O)=O)C[C@H](CCB(O)O)CC1)=O)N)C,100-199,200-299
+32,CC([C@@H](C(NC[C@H]1[C@@](N)(C(OC)=O)C[C@H](CCB(O)O)CC1)=O)N)C,>300,>300
+23,C(=O)(O)[C@@]1(N)C[C@H](CCB(O)O)CC[C@H]1CNC(=O)[C@@H](N)C(C)C,1-99,>300
+3,B(O)(O)CC[C@H]1CC[C@H](CNC(=O)[C@@H](N)Cc2ccccc2)[C@](N)(C(=O)O)C1,>300,>300
+4,NCC(=O)NC[C@H]1CC[C@H](CCB(O)O)C[C@]1(N)C(=O)O,1-99,>300
+6,C(=O)(O)[C@@]1(N)C[C@H](CCB(O)O)CC[C@H]1CNC(=O)[C@@H](N)CC(C)C,1-99,100-199
+17,C(=O)(O)[C@]1(N)C[C@H](CCB(O)O)CC[C@H]1CNC(=O)[C@@H](N)CCSC,1-99,200-299

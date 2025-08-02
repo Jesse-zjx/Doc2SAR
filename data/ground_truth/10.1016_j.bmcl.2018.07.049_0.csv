@@ -1,0 +1,6 @@
+﻿Compound ID,SMILES,IC50 H-PGDS,MBI (HLM) Midazolam APR,MBI (HLM) % rem,MBI (HLM) Testosterone APR,MBI (HLM) % rem,MBI (rhCYP3A4) Midazolam APR,MBI (rhCYP3A4) % rem,MBI (rhCYP3A4) Testosterone APR,MBI (rhCYP3A4) % rem
+1,Cc1nc(-c2ccccn2)ncc1C(=O)Nn1cc(C)c2cc(F)ccc21,7,173,30,167,20,not done,not done,not done,not done
+4,Cc1nc(-c2ccccn2)ncc1C(=O)Nn1cc(C)c2nc(F)ccc21,6,no MBI,79,no MBI,91,not done,not done,not done,not done
+5,COc1ccc2c(n1)c(C)cn2NC(=O)c1cnc(-c2ccccn2)nc1C,3,338,57,not available,> 70,326,19,460,22
+6,C(F)(F)(F)c1cccc2c1ccn2NC(=O)c1cnc(-c2ccccn2)nc1C,10,no MBI,100,no MBI,91,1119,57,842,59
+7,C(F)(F)(F)c1cccc2c1ccn2NC(=O)c1cnc(-c2ncccn2)nc1C,8,no MBI,95,no MBI,90,no MBI,no MBI,no MBI,no MBI

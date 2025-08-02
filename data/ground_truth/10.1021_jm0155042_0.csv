@@ -1,0 +1,9 @@
+﻿compd,SMILES,IC50PDE5 (nM)
+1a,CCCc1nn(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(C)CC4)ccc3OCC)nc12,1.6 ± 0.6
+2b,CCn1ncc2c(N[C@@H](C)C3CCCCC3)c3cc(C#N)ccc3nc21,1
+3c,O(C)c1ccc(CNc2nnc(N3CCC(O)CC3)c3ccc(C#N)cc23)cc1Cl,0.6
+4a,CCCCNc1c(C(=O)OCC)cnc2c1cnn2CC,180 ± 80
+5a,CCn1ncc2c(NCc3ccc(OC)c(Cl)c3)c(C(=O)NCc3ccncc3)cnc21,0.8 ± 0.5
+6a,CCn1ncc2c(NCc3ccc(OC)c(Cl)c3)c(C(=O)O)cnc21,38
+7a,O(C)c1ccc(CNc2c(C(=O)NC[C@@H]3CCCO3)cnc3c2cnn3CC)cc1Cl,1.8 ± 0.3
+9a,CCn1ncc2c(NCc3ccc(OC)c(Cl)c3)c(C(=O)NCCCN3CCCC3=O)cnc21,1.6 ± 0.7

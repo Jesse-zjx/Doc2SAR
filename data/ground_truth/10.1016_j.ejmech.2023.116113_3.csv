@@ -1,0 +1,11 @@
+﻿Compound,SMILES,Inhibition (%) @ 5 µg/mL,IC50 (nM),cLogPa
+69P,O=C(NCC1CCOCC1)Nc1ccc(/C=C/c2cccc(NC(=O)c3ccccn3)c2)cc1,99.8,8.42 ± 0.39,NT
+70P,O=C(Cc1ccccn1)Nc1cccc(/C=C/c2ccc(NC(=O)NCC3CCOCC3)cc2)c1,99.7,4.02 ± 0.10,3.495
+71P,O=C(Cc1cccnc1)Nc1cccc(/C=C/c2ccc(NC(=O)NCC3CCOCC3)cc2)c1,99.8,2.03 ± 0.53,3.474
+72P,O=C(Cc1ccncc1)Nc1cccc(/C=C/c2ccc(NC(=O)NCC3CCOCC3)cc2)c1,99.9,1.42 ± 0.10,3.56
+74P,O=C(Cc1ccc2ncccc2c1)Nc1cccc(/C=C/c2ccc(NC(=O)NCC3CCOCC3)cc2)c1,99.6,1.40 ± 0.02,4.854
+75P,O=C(Cn1ccc2ccccc21)Nc1cccc(/C=C/c2ccc(NC(=O)NCC3CCOCC3)cc2)c1,99.6,1.26 ± 0.21,5.053
+76P,O=C(Cn1c2ccccc2c2ccccc21)Nc1cccc(/C=C/c2ccc(NC(=O)NCC3CCOCC3)cc2)c1,89,3.31 ± 1.01,5.973
+81P,O=C(Cc1ccccn1)Nc1ccc(/C=C/c2ccc(NC(=O)NCC3CCOCC3)cc2)cc1,93.3,3.45 ± 1.17,3.973
+87P,O=C(NCc1ccccn1)Nc1ccc(/C=C/c2cccc(C(=O)NCc3ccccn3)c2)cc1,97.9,5.78 ± 0.43,NT
+94P,O=C(Cc1ccccn1)Nc1cccc(NC(=O)c2ccc(NC(=O)NCC3CCOCC3)cc2)c1,99.1,67.39 ± 4.08,NT

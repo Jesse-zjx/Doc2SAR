@@ -1,0 +1,4 @@
+﻿Compound,SMILES,MsEH IC50(nM),HsEH IC50(nM)
+11P,O=C(NCC1CCOCC1)Nc1ccc(/C=C/c2ccc3c(c2)OCO3)cc1,1.63 ± 0.03,4.78 ± 0.99
+70P,O=C(Cc1ccccn1)Nc1cccc(/C=C/c2ccc(NC(=O)NCC3CCOCC3)cc2)c1,4.02 ± 0.10,1.52 ± 0.45
+EC5026,O(c1ccc(NC(=O)NC2CCN(C(=O)[C@H](C)CC)CC2)cc1F)C(F)(F)F,19.11 ± 1.91,1.73 ± 0.76

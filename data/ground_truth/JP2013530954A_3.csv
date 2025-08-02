@@ -1,0 +1,8 @@
+Compound ID,SMILES,Ki
+314,CNc1nc(Nc2ccc(C(=O)N3CCOCC3)cc2OC)ncc1C#N,
+315,COc1cc(C(=O)N2CCOCC2)ccc1Nc1ncc(C#N)c(OC)n1,
+316,CCNc1nc(Nc2cc(F)c(C(=O)N3CCOCC3)cc2OC)ncc1C#N,
+317,CNc1nc(Nc2cc(F)c(C(=O)N3CCOCC3)cc2OC)ncc1C#N,
+318,CNc1nc(Nc2cc(OC)c(C(=O)N3C[C@H](C)O[C@H](C)C3)cc2F)ncc1C#N,
+319,CCNc1nc(Nc2cc(F)c(C(=O)N3C[C@H](C)O[C@H](C)C3)cc2OC)ncc1C#N,
+320,CNc1nc(Nc2cc(F)c(C(=O)N(C)C)cc2OC)ncc1C#N,

@@ -1,0 +1,9 @@
+Compound,SMILES,DNMT1 IC50(nM),Rat Oral Bioavailability (%),FaSSIF Solubility (μg/mL)
+Example 1,CCc1c(C#N)c(S[C@H](C(=O)NP(=O)(O)O)c2ccc(OS(C)(=O)=O)cc2)nc(N(C)C)c1C#N,16139a,,> 1000
+Example 2,CCc1c(C#N)c(S[C@H](C(N)=O)c2ccc(OS(C)(=O)=O)cc2)nc(N(C)C)c1C#N,54a,40,1
+Example 3,CCc1c(C#N)c(SC(C(=O)NP(=O)(O)O)c2ccc(OS(C)(=O)=O)cc2)nc(N(C)C)c1C#N,5209a,,> 1000
+Example 4,CCc1c(C#N)c(SC(C(N)=O)c2ccc(OS(C)(=O)=O)cc2)nc(N(C)C)c1C#N,107a,,< 1
+Reference compound 1,CCc1c(C#N)c(S[C@H](C(N)=O)c2ccccc2)nc(N(C)C)c1C#N,89a,,< 1
+Reference compound 2,CCc1c(C#N)c(S[C@H](C(N)=O)c2ccccc2)nc(N2CC[C@H](O)C2)c1C#N,156a,,2.7
+Reference compound 3,CCc1c(C#N)c(SC(C(N)=O)c2ccc(Cl)cc2)nc(N(C)C)c1C#N,631b,,
+Reference compound 4,CCc1c(C#N)c(S[C@H](C(N)=O)c2ccc(OC)cc2)nc(N2CC[C@H](O)C2)c1C#N,79b,6.1,4

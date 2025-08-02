@@ -1,0 +1,19 @@
+﻿Compound,SMILES,"IC50a,b(µM) K562","IC50a,b(µM) Colo-205","IC50a,b(µM) MDA-MB 231"
+16a,O=C(NC(Cc1ccccc1)C(=O)N1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1)c1ccc(I)cc1,26,28,55
+16b,CC(C)(C(=O)NC(Cc1ccccc1)C(=O)N1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1)c1ccc(C(=O)C2CC2)cc1,14,17,34
+16c,CS(=O)(=O)c1ccc(CC(=O)NC(Cc2ccccc2)C(=O)N2CCN(C3=Nc4ccccc4Sc4ccccc43)CC2)cc1,28,32,56
+16d,O=C(NC(Cc1ccccc1)C(=O)N1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1)c1cnccn1,16,15,38
+16e,c1(C#N)ccc(C(=O)NC(Cc2ccccc2)C(=O)N2CCN(C3=Nc4ccccc4Sc4ccccc43)CC2)cc1,24,29,61
+16f,c1(C)ccc(C(=O)NC(Cc2ccccc2)C(=O)N2CCN(C3=Nc4ccccc4Sc4ccccc43)CC2)c(C)c1,35,40,37
+16g,CCc1ccc(C(=O)NC(Cc2ccccc2)C(=O)N2CCN(C3=Nc4ccccc4Sc4ccccc43)CC2)cc1,21,25,44
+16h,Cc1ccc(C(=O)NC(Cc2ccccc2)C(=O)N2CCN(C3=Nc4ccccc4Sc4ccccc43)CC2)cn1,39,34,54
+16i,Cc1ccc(C)c(C(=O)NC(Cc2ccccc2)C(=O)N2CCN(C3=Nc4ccccc4Sc4ccccc43)CC2)c1,16,12,34
+16j,Cc1ccc(C(=O)NC(Cc2ccccc2)C(=O)N2CCN(C3=Nc4ccccc4Sc4ccccc43)CC2)cc1I,36,45,59
+16k,CC(=O)CCCC(=O)NC(Cc1ccccc1)C(=O)N1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1,32,33,52
+16l,Cc1ccc(Br)cc1C(=O)NC(Cc1ccccc1)C(=O)N1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1,27,16,49
+16m,COC(=O)CCCC(=O)NC(Cc1ccccc1)C(=O)N1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1,19,28,64
+16n,CCOC(=O)CCCC(=O)NC(Cc1ccccc1)C(=O)N1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1,20,36,48
+16o,O=C(Cc1ccc2c(c1)OCO2)NC(Cc1ccccc1)C(=O)N1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1,35,24,52
+16p,O=C(NC(Cc1ccccc1)C(=O)N1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1)c1ccoc1,17,14,37
+16q,O=C(NC(Cc1ccccc1)C(=O)N1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1)c1ccc(OC(F)F)cc1,12,10,39
+16r,O=C(CCc1cccc(Cl)c1)NC(Cc1ccccc1)C(=O)N1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1,27,16,59

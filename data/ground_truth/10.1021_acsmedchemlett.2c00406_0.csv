@@ -1,0 +1,7 @@
+Example No.,SMILES,CFTR EC50 (µM)
+7,COc1ccc(C)cc1C1(C(=O)NS(=O)(=O)c2cccc3nc(C)ccc23)CC1c1ccc(C)cc1,0.0008
+12,COc1ccc(C)cc1C1(C(=O)NS(=O)(=O)c2cccc3nc(C)ccc23)CC1c1cccc(C(F)(F)F)c1,0.00051
+15,COc1cccc(C2CC2(C(=O)NS(=O)(=O)c2cccc3nc(C)ccc23)c2cc(C)ccc2OC)c1,0.00084
+17,COc1ccc(C2CC2(C(=O)NS(=O)(=O)c2cccc3nc(C)ccc23)c2cc(C)ccc2OC)cc1,0.00066
+77,COc1ccc(C)cc1C1(C(=O)NS(=O)(=O)c2cccc3nc(C)ccc23)CC1c1cccc(C(F)F)n1,0.0004
+97,COc1ccc(C)cc1C1(C(=O)NS(=O)(=O)c2cccc3nc(C)ccc23)CC1c1cccc(OC(C)C)n1,0.0009

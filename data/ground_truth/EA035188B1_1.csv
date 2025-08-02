@@ -1,0 +1,7 @@
+Example,SMILES,pKi (M),Kassoc (M⁻¹·min⁻¹),Kdissoc (min⁻¹),T1/2 (min),tR (min)
+1a,C(F)(F)(F)c1cnc(NC[C@H](C)N(C)C(=O)c2nc(C)ccc2-n2nccn2)cn1,9.5,7.82E+06,0.003,248,357
+1b,C(F)(F)(F)c1cnc(NC[C@H](C)N(C)C(=O)c2nc(C)ccc2-n2nccn2)cn1,9.1,8.77E+06,0.007,104,150
+1c,C(F)(F)(F)c1cnc(NC[C@H](C)N(C)C(=O)c2nc(C)ccc2-n2nccn2)cn1,9.3,8.39E+06,0.005,170,245
+2a,C(F)(F)(F)c1cnc(NC[C@H](C)N(C)C(=O)c2nc(C)ccc2-n2nccn2)nc1,8.6,4.52E+06,0.01,67,96
+2d,C(F)(F)(F)c1cnc(NC[C@H](C)N(C)C(=O)c2nc(C)ccc2-n2nccn2)nc1,8.6,4.68E+06,0.011,60,87
+2e,C(F)(F)(F)c1cnc(NC[C@H](C)N(C)C(=O)c2nc(C)ccc2-n2nccn2)nc1,8.6,4.57E+06,0.011,65,93

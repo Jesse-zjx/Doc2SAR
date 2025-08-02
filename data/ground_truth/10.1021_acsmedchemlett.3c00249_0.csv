@@ -1,0 +1,7 @@
+Compound No.,SMILES,HPK1 IC50 (nM)
+7-7,COc1cc2c(cc1Nc1ncc(C(N)=O)c(Nc3cccc4c3OCC4)n1)CN(C)CC2,0.03
+7-67,COc1cc2c(cc1Nc1ncc(C(N)=O)c(Nc3ccccc3[C@@H](C)OC)n1)CN(C)CC2,0.04
+7-69,COc1cc2c(cc1Nc1ncc(C(N)=O)c(Nc3ccccc3[C@@H](C)OC)n1)CN(C)CC2,0.04
+7-101,COc1cc2c(cc1Nc1ncc(C(N)=O)c(Nc3ccccc3C(C)(F)F)n1)CN(C)CC2,0.03
+7-104,COc1cc2c(cc1Nc1ncc(C(N)=O)c(Nc3ccccc3OC)n1)CN(C)CC2,0.01
+7-112,CCOc1ccccc1Nc1nc(Nc2cc3c(cc2OC)CCN(C)C3)ncc1C(N)=O,0.03

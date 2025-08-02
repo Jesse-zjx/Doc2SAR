@@ -1,0 +1,5 @@
+﻿Compound,SMILES,IC50 (nM)a
+LX9211,CC(C)C[C@](C)(N)COc1ccc(-c2ccnc(C(F)F)c2)nc1C(F)F,5.0 nM
+1,CC(C)C[C@](C)(N)COc1ccc(-c2ccnc(C(F)F)c2)c2cncn12,3.9 nM
+2,CC(C)C[C@](C)(N)COc1ccc(-c2ccnc(C(F)F)c2)n2cncc12,4.2 nM
+3,CC(C)C[C@](C)(N)COc1ccc(-c2ccnc(C(F)F)c2)c2cnccc12,>50 nM

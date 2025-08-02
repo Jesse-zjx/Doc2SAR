@@ -1,0 +1,7 @@
+Ex.,SMILES,SERT pIC50,NET pIC50
+17,Clc1cc(C)ccc1OC(C1CCCC1)C1CCNC1,≥8.0*,≥8.0*
+19,Clc1cccc(Cl)c1O[C@@H](C1CCCCC1)[C@H]1CCNC1,≥7.0,≥8.0
+21,FC1(F)CCC(C(Oc2cc(Cl)cc(Cl)c2)C2CCNC2)CC1,n.d.,n.d.
+22,c1cc(O[C@@H](C2CC2)[C@H]2CCNC2)c2ccccc2c1,≥8.0*,≥8.0*
+24,C=CC[C@H](Oc1cccc(Cl)c1C)[C@H]1CCNC1,≥8.0,≥8.0
+26,C#CC(Oc1c(Cl)ccc(Cl)c1Cl)[C@H]1CCNC1,≥7.0,≥8.0

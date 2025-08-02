@@ -1,0 +1,9 @@
+Compound No.,SMILES,EC50 (nM) CTG K562 wt,EC50 (nM) CTG K562 T3151,EC50 (nM) selectScreenABL wt,EC50 (nM) selectScreenABL T3151
+Asciminib,O=C(Nc1ccc(OC(F)(F)Cl)cc1)c1cnc(N2CC[C@@H](O)C2)c(-c2ccn[nH]2)c1,7.59,88.07,28.19,6.45
+Dasatinib,Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1,0.28,n/a,0.13,n/a
+Dasatinib + Asciminib,Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1.O=C(Nc1ccc(OC(F)(F)Cl)cc1)c1cnc(N2CC[C@@H](O)C2)c(-c2ccn[nH]2)c1,0.26,11.99,0.13,n/a
+Ponatinib,c1(C)ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2cccnn12,0.4,1.77,2.8,4.18
+DosatiLink-1,Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(C(=O)CCOCCOCCNC(=O)C3CCN(c4ncc(C(=O)Nc5ccc(OC(F)(F)Cl)cc5)cc4-c4ccn[nH]4)CC3)CC2)n1,2.47,>300,0.44,7.23
+DosatiLink-2,Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(C(=O)CCOCCOCCNC(=O)C3CCN(c4ncc(C(=O)Nc5ccc(OC(F)(F)Cl)cc5)cc4-c4ccn[nH]4)CC3)CC2)n1,2.49,>300,0.8,23.8
+PonatiLink-1-24,C(F)(F)(F)c1cc(NC(=O)c2ccc(C)c(C#Cc3cnc4cccnn34)c2)ccc1CN1CCN(C(=O)CCOCCOCCNC(=O)C2CCN(c3ncc(C(=O)Nc4ccc(OC(F)(F)Cl)cc4)cc3C3=CNNC3)CC2)CC1,0.87,26.29,3.57,64.03
+Ponatinib + Asciminib,c1(C)ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2cccnn12.O=C(Nc1ccc(OC(F)(F)Cl)cc1)c1cnc(N2CC[C@@H](O)C2)c(-c2ccn[nH]2)c1,0.39,1.49,3.89,7.39

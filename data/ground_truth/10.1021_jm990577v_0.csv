@@ -1,0 +1,4 @@
+﻿no.,SMILES,"EC50, mg/kg (n) rat air pouch","EC50, mg/kg (n) rat adjuvant arthritisa","EC50, mg/kg (n) carrageenan edemab"
+1,C(F)(F)(F)c1cc(-c2ccc(C)cc2)n(-c2ccc(S(N)(=O)=O)cc2)n1,0.33 ± 0.08 (2),0.373 ± 0.163 (3),7.13 ± 0.79 (2)
+2,Cc1onc(-c2ccccc2)c1-c1ccc(S(N)(=O)=O)cc1,0.05 ± 0.02 (2),0.032 ± 0.002 (2),10.2 ± 1.4 (2)
+3,C(O)c1onc(-c2ccccc2)c1-c1ccc(S(N)(=O)=O)cc1,0.81 ± 0.19 (2),1.49 ± 0.37 (3),1.06 ± 0.01 (3)

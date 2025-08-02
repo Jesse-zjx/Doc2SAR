@@ -1,0 +1,3 @@
+Measurement,SMILES,hOX1 pIC50,hOX2 pIC50,hOX1 pKi,hOX2 pKi
+Example 1,C(F)(F)(F)c1cnc(NC[C@H](C)N(C)C(=O)c2nc(C)ccc2-n2nccn2)cn1,9.1,6,9,6.6
+Example 2,C(F)(F)(F)c1cnc(NC[C@H](C)N(C)C(=O)c2nc(C)ccc2-n2nccn2)nc1,8.9,5.7,8.8,6.1

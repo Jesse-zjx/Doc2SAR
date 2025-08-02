@@ -1,0 +1,9 @@
+Compound,SMILES,Absolute IC50 (µM),Relative IC50 (µM),Top,Bottom,Hill Slope,Max % Inhibition
+Compound VII,C(F)(F)(F)c1cc(-c2ncn(/C=C\C(=O)NNC(=O)C3CC3)n2)cc(S(F)(F)(F)(F)F)c1,NA,0.1,45.9,-6.4,1.2,49.0
+Compound VIII,C(F)(F)(F)c1cc(-c2ncn(/C=C\C(=O)NNC(=O)C(C)C)n2)cc(S(F)(F)(F)(F)F)c1,NA,0.1,38.8,-10.6,1.8,44.0
+Compound IX,CCCC(=O)NNC(=O)/C=C\n1cnc(-c2cc(C(F)(F)F)cc(S(F)(F)(F)(F)F)c2)n1,NA,0.1,43.6,-4.6,1.6,48.3
+Compound X,C(F)(F)(F)c1cc(-c2ncn(/C=C\C(=O)NNC(=O)C3CCC3)n2)cc(S(F)(F)(F)(F)F)c1,9.4,0.2,59.4,-15.9,0.5,58.3
+Compound XI,C(F)(F)(F)c1cc(-c2ncn(/C=C\C(=O)NNC(=O)C3(C)CC3)n2)cc(S(F)(F)(F)(F)F)c1,NA,0.2,44.6,-7.6,1.8,48.5
+Compound XII,C(F)(F)(F)c1cc(-c2ncn(/C=C\C(=O)NNC(=O)C(C)(CO)CO)n2)cc(S(F)(F)(F)(F)F)c1,18.5,0.6,50.9,-5.5,1.2,53.9
+Compound III,S(F)(F)(F)(F)(F)c1cc(-c2ncn(/C=C\C(=O)NNC(=O)C(C)(C)C)n2)cc(C(F)(F)F)c1,NA,0.2,40.2,-4.2,3.2,46.3
+KPT-350,,10.0,0.3,53.0,-13.2,0.8,49.4

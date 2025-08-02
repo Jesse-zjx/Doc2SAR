@@ -1,0 +1,7 @@
+﻿Example No.,SMILES,PKal IC50 (nM)
+45,c1(Cl)ccc2NC(=O)O[C@@]3(CN(C(=O)C4=CN(C(CC)c5cc6NC=Nc6c(C)c5)N=C4)CCC3)c2c1F,0.8
+98,c1(Cl)ccc2NC(=O)O[C@@]3(CN(C(=O)C4NC(C(CC(F)(F)F)c5ccccc5)=NN=4)CCC3)c2c1F,1.3
+106,c1(Cl)ccc2NC(=O)O[C@@]3(CN(C(=O)C4NC(C(C5CC5)c5ccccc5)=NN=4)CCC3)c2c1F,1.6
+109,CC[C@H](c1cc(C)c2nc[nH]c2c1)c1n[nH]c(C(=O)N2CCC[C@@]3(C2)OC(=O)Nc2ccc(Cl)c(F)c23)n1,1.3
+110,CC[C@H](c1cc(C)c2nc[nH]c2c1)c1n[nH]c(C(=O)N2CCC[C@@]3(C2)OC(=O)Nc2ccc(Cl)c(F)c23)n1,1.0
+112,c1(Cl)ccc2NC(=O)O[C@@]3(CN(C(=O)C4=NC(C(CC)c5ccc6COCc6c5)=NN4)CCC3)c2c1F,1.0

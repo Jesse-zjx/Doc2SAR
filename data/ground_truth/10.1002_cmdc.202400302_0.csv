@@ -1,0 +1,6 @@
+﻿Compound,SMILES,IC50(µM)[a] NDM-1,IC50(µM)[a] IMP-1
+3,CC(C)c1cccc2c(-c3ccc(F)cc3)c(C(=O)O)[nH]c12,0.0016 ± 0.0004,0.095 ± 0.062
+5,CC(C)c1cccc2c(-c3ccc(Cn4cc(CNC(=O)[C@@H]5C[C@H](SC6=C(C(=O)O)N7C(=O)[C@H]([C@@H](C)O)[C@H]7[C@H]6C)CN5)nn4)cc3)c(C(=O)O)[nH]c12,0.00025 ± 0.00001,0.0029 ± 0.0005
+6,CC(C)c1cccc2c(-c3ccc(Cn4cc(CNC(=O)c5cccc(NC(=O)[C@@H]6C[C@H](SC7=C(C(=O)O)N8C(=O)[C@H]([C@@H](C)O)[C@H]8[C@H]7C)CN6)c5)nn4)cc3)c(C(=O)O)[nH]c12,0.000115 ± 0.000003,0.000656 ± 0.000004
+7,C[C@@H](O)[C@H]1C(=O)N2C(C(=O)O)=C(S[C@@H]3CN[C@H](C(=O)NCc4cn(Cc5ccccc5)nn4)C3)[C@H](C)[C@H]12,13.52 ± 3.02,0.67 ± 0.13
+8,C[C@@H](O)[C@H]1C(=O)N2C(C(=O)O)=C(S[C@@H]3CN[C@H](C(=O)Nc4cccc(C(=O)NCc5cn(Cc6ccccc6)nn5)c4)C3)[C@H](C)[C@H]12,3.99 ± 0.80,0.57 ± 0.06

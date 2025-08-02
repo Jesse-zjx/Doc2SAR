@@ -1,0 +1,6 @@
+实施例编号(结构),SMILES,效力配体结合测定pIC50,人肝细胞固有清除率测定CLint(µL/min/106细胞),大鼠口服生物利用度F(%),溶解度S(mg/mL),人血浆蛋白结合PPB(游离%)
+21,CS(=O)(=O)Nc1cc(NC(CO)CO)nc(SCc2ccccc2)n1,5.6,2.3,-,-,-
+39,C[C@H](CO)Nc1cc(NS(=O)(=O)N2CCC2)nc(SCc2cccc(F)c2F)n1,8.4,5.1,44,342,1
+40,C[C@H](CO)Nc1cc(NS(=O)(=O)N2CCC2)nc(SCc2cccc(Cl)c2F)n1,8.6,9,-,-,<0.2
+41,C[C@@H](CO)Nc1cc(NS(=O)(=O)N2CCC2)nc(SCc2ccc(F)c(F)c2F)n1,8.5,12,-,372,0.6
+42,Cc1ccc(CSc2nc(N[C@H](C)CO)cc(NS(=O)(=O)N3CCC3)n2)c(F)c1F,8.1,17,-,-,《0.2

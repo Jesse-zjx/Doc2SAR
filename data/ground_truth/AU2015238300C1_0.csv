@@ -1,0 +1,8 @@
+Compound,SMILES,Kd FGFR1 (nM),Kd FGFR2 (nM),Kd FGFR3 (nM),Kd FGFR4 (nM),Kd VEGFR2 (nM)
+1,COc1cc(OC)c2c(c1)N(c1ccc3ncc(-c4cnn(C)c4)nc3c1)CCN(C(C)C)C2,314,674,325,778,>3010
+2,COc1cc(OC)c2c(c1)N(c1ccc3ncc(-c4cn[nH]c4)nc3c1)CCN(C(C)C)C2,17,63,68,68,741
+3,COc1cc(O)c2c(c1)N(c1ccc3ncc(-c4cnn(C)c4)nc3c1)CCN(C(C)C)C2,720,620,300,1900,>3000
+4,COc1cc(O)cc2c1CN(C(C)C)CCN2c1ccc2ncc(-c3cnn(C)c3)nc2c1,740,900,870,>3000,>3000
+6,CCn1cc(-c2cnc3ccc(N4CCN(C)Cc5c(OC)cc(OC)cc54)cc3n2)cn1,2400,2900,2200,>3000,>3000
+7,CCn1cc(-c2cnc3ccc(N4CCN(C(C)C)Cc5c(OC)cc(OC)cc54)cc3n2)cn1,79,340,170,230,1700
+9,COc1cc(OC)c2c(c1)N(c1ccc3ncc(-c4cnn(C)c4)nc3c1)CCCN(C(C)C)C2,54,117,138,355,922

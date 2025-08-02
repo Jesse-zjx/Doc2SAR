@@ -1,0 +1,3 @@
+化合物,SMILES,EC50,EC90
+7a,C#CCNC(=O)C(=O)c1c(C)c(C(=O)Nc2ccc(F)c(F)c2)n(C)c1C,0.008,0.58
+13,O=C(Nc1ccc(F)c(F)c1)c1cc(S(=O)(=O)NCc2cn(C3CC3)nn2)ccc1F,<10,ND (86%)

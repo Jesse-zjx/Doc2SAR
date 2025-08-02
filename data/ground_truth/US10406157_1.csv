@@ -1,0 +1,3 @@
+Compound,SMILES,pEC50
+Formula 1,CC(=O)N1CCc2nc(N3CCC(Oc4ccc(F)cc4F)CC3)c(N[C@@H]3CCOC3)nc2C1,7.2
+Compound A,CC(=O)N1CCc2nc(N3CCC(Oc4ccc(F)cc4F)CC3)c(N[C@H]3CCOC3)nc2C1,7.2

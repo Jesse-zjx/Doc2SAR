@@ -1,0 +1,5 @@
+Compound,SMILES,5-HT2B antagonism IC50,5-HT2B antagonism KB
+(±)-7,COc1cc(N)c(Cl)cc1C(=O)N[C@@H]1CCN(CCCOc2ccc(F)cc2)C[C@H]1F,60 nM,20 nM
+(±)-12,COc1cc(N)c(Cl)cc1C(=O)N[C@H]1CCN(CCCOc2ccc(F)cc2)C[C@H]1F,12 nM,4.2 nM
+(+)-17,COc1cc(N)c(Cl)cc1C(=O)NC1CCN(CCCOc2ccc(F)cc2)CC1(F)F,33 nM,11 nM
+(−)-17,COc1cc(N)c(Cl)cc1C(=O)NC1CCN(CCCOc2ccc(F)cc2)CC2(F)F,1.6 nM,0.55 nM

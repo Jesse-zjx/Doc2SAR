@@ -1,0 +1,7 @@
+Example No.,SMILES,FP PARP1 pIC₅₀
+4,CCc1cc2ncc(CN3CCN(c4ccc(F)cn4)CC3)cc2[nH]c1=O,8.4
+5,CCc1nc2c(F)cc(CN3CCN(c4ccc(C#N)cn4)CC3)cc2[nH]c1=O,8.5
+16,O=c1[nH]c2cc(CN3CCN(c4ccc(F)cn4)CC3)cnc2cc1C1CC1,8.5
+17,c1(C#N)ccc(N2CCN(Cc3cnc4cc(C5CC5)c(=O)[nH]c4c3)CC2)nc1,8.4
+33,C(#N)c1ccc(N2CCN([C@@H](C)c3cnc4cc(C)c(=O)[nH]c4c3)CC2)nc1,8.6
+37,C(#N)c1ccc(N2CCN(C([2H])([2H])c3cnc4cc(C)c(=O)[nH]c4c3)CC2)nc1,8.5

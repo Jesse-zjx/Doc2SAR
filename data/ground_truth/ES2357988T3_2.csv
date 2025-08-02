@@ -1,0 +1,5 @@
+pIC50 del compuesto cicloheptil (C7),SMILES,"pIC50 de los compuestos comparativos que contienen un anillo ciclopentilo (C5), ciclohexilo (C6) o ciclooctilo (C8) en lugar de cicloheptil (C7)",Unnamed: 2,Unnamed: 3
+C7,,C5,C6,C8
+"10,2 (Ej. 1)",O=C(O[C@@H]1CN2CCC1C2)C1(c2ccccc2)CCCCCC1,"8,7 (Ej. Comp. 1)","8,9 (Ej. Comp. 4)","9,1 (Ej. Comp. 7)"
+"8,5 (Ej. 2)",O=C(O[C@@H]1C[N+]2(C)CCC1C2)C1(c2ccccc2)CCCCCC1,"7,4 (Ej. Comp. 2)","7,3 (Ej. Comp. 5)","7,4 (Ej. Comp. 8)"
+10.1 (Ej. 16),O=C(C[N+]12CCC(C1)[C@@H](OC(=O)C1(c3ccccc3)CCCCCC1)C2)Nc1cnccn1,"9,5 (Ej. Comp. 3)","9,7 (Ej. Comp. 6)","9,5 (Ej. Comp. 9)"

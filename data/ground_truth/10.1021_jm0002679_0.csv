@@ -1,0 +1,8 @@
+﻿compd,SMILES,IC50a influenza A,IC50a influenza B
+2,C1(C(=O)O)=C[C@H](O)[C@H](NC(C)=O)[C@@H]([C@H](O)[C@H](O)CO)O1,10 µMb,nd
+3,C1(C(=O)O)=C[C@H](NC(=N)N)[C@H](NC(C)=O)[C@@H]([C@H](O)[C@H](O)CO)O1,0.3–2.3 nMc,1.5–17 nMd
+4,C1(C(=O)O)=C[C@@H](OC(CC)CC)[C@H](NC(C)=O)[C@H](N)C1,0.01–2.2 nMc,6.4–24.3 nMd
+5,CC(=O)N[C@@H]([C@H](O)[C@H](O)CO)[C@H]1O[C@@](O)(C(=O)O)C[C@@H]1O,40 µMb,nd
+6,CC(=O)NC[C@H]1C[C@@H](C(=O)O)C[C@@H]1NC(=N)N,115 µMb,nd
+7,C(=O)(O)[C@@H]1C[C@H](NC(=N)N)[C@H](C(CCCC)NC(C)=O)C1,0.1 µMb,nd
+8,CCC(CC)C(NC(C)=O)[C@@H]1[C@@H](NC(=N)N)C[C@@H](C(=O)O)[C@H]1O,0.1–1.4 nMc,0.6–11 nMd

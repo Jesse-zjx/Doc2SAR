@@ -1,0 +1,9 @@
+No.,SMILES,Structure,IUPAC_Name,USP7 Ub-Rho prelnc (IC50) µmol,USP7 Ub-Rho110 Fluor (IC50) µmol
+79,CCc1c(-c2ccc(F)c(C)c2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[2-amino-4-ethyl-5-(4-fluoro-3-methylphenyl)-3-pyridyl]phenol,>20,
+80,CCc1c(-c2ccc(Cl)cc2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[2-amino-5-(4-chlorophenyl)-4-ethyl-3-pyridyl]phenol,17.6,
+81,CCc1c(-c2ccc(C(=O)NC)cc2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[6-amino-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]-N-methyl-benzamide,3.3,
+82,CCc1c(-c2cccc(CN3CCOCC3)c2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[2-amino-4-ethyl-5-[3-(morpholinomethyl)phenyl]-3-pyridyl]phenol,18.2,
+83,CCc1c(-c2cnc(OC)nc2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[2-amino-4-ethyl-5-(2-methoxypyrimidin-5-yl)-3-pyridyl]phenol,136,
+84,CCc1c(-c2ccc3cn[nH]c3c2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[2-amino-4-ethyl-5-(1H-indazol-6-yl)-3-pyridyl]phenol,7.2,
+85,CCc1c(-c2cccc3nn(C)cc23)cnc(N)c1-c1ccc(O)cc1,[mol],4-[2-amino-4-ethyl-5-(2-methylindazol-4-yl)-3-pyridyl]phenol,14.6,
+86,CCc1c(-c2ccc3[nH]c(C)nc3c2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[2-amino-4-ethyl-5-(2-methyl-1H-benzimidazol-5-yl)-3-pyridyl]phenol,13.5,

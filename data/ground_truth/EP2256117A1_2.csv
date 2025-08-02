@@ -1,0 +1,7 @@
+Compound of Example No.,SMILES,pIC50
+1,O=C(O[C@@H]1CN2CCC1CC2)C1(c2ccccc2)CCCCCC1,10.2
+2,C[N+]12CCC(C1)[C@@H](OC(=O)C1(c3ccccc3)CCCCCC1)C2,8.5
+3,BrCCCOc1ccccc1.O=C(O[C@@H]1C[N+]2(CCCOc3ccccc3)CCC1CC2)C1(c2ccccc2)CCCCCC1,10.3
+4,O=C(CBr)Nc1ccon1,10.2
+10,COc1cccc(C[N+]23CCC(C2)[C@@H](OC(=O)C2(c4ccccc4)CCCCCC2)C3)c1,8.5
+16,O=C(C[N+]12CCC(C1)[C@@H](OC(=O)C1(c3ccccc3)CCCCCC1)C2)Nc1cnccn1,10.1

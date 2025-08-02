@@ -1,0 +1,4 @@
+Co. No.,SMILES,Tau Ki (nM),Aβ Ki (nM),Selectivity (ratio)
+1,Cc1cc(Nc2ccc3nc(F)ccc3n2)ccn1,7.9 ± 2.5,"> 4,400",> 540
+2,Cc1cnccc1Nc1ccc2nc(F)ccc2n1,13.5 ± 2.2,"> 4,400",> 325
+3,Fc1ccc2nc(Nc3ccncc3)ccc2n1,11.3 ± 2.8,"> 4,400",> 380

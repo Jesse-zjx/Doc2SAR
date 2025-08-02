@@ -1,0 +1,8 @@
+번호,SMILES,P-PRAS40 HCC1954 MSD EC50(μM),P-PRAS40 HDQ-P1 MSD EC50(μM),HCC1954 대 HDQ-P1 의 배수 선택도
+101,C[C@H](Nc1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3C(F)F)nc1-2)C(N)=O,0.019,0.084,4.4
+103,NC(=O)[C@@H](Nc1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3C(F)F)nc1-2)C1CC1,0.028,0.155,5.5
+105,NC(=O)[C@H](Nc1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3CF)nc1-2)C1CC1,0.027,0.179,6.6
+타셀리십,Cc1nc(-c2cn3c(n2)-c2ccc(-c4cnn(C(C)(C)C(N)=O)c4)cc2OCC3)n(C(C)C)n1,0.023,0.055,2.4
+픽딜리십,CS(=O)(=O)N1CCN(Cc2cc3nc(-c4cccc5[nH]ncc45)nc(N4CCOCC4)c3s2)CC1,0.324,0.094,0.3
+알펠리십,C(C)(C)(c1cc(-c2sc(NC(=O)N3CCC[C@H]3C(N)=O)nc2C)ccn1)C(F)(F)F,0.483,0.311,0.6
+"화합물 436 (미국 특허 제 8,242,104 호)",CC(C)n1ncnc1-c1cn2c(n1)-c1ccc(O[C@@H](C)C(N)=O)cc1OCC2,0.089,0.122,1.4

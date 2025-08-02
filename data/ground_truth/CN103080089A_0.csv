@@ -1,0 +1,5 @@
+化合物,SMILES,IC50,KB
+(±)-7,Nc1cc(O)c(C(=O)NC2CCN(CCCOc3ccc(F)cc3)C[C@@H]2F)cc1Cl,60 nM,20 nM
+(±)-12,Nc1cc(O)c(C(=O)N[C@H]2CCN(CCOc3ccc(F)cc3)C[C@H]2F)cc1Cl,12 nM,4.2 nM
+(+)-17,COc1cc(N)c(Cl)cc1C(=O)NC1CCN(CCCOc2ccc(F)cc2)CC1(F)F,33 nM,11 nM
+(-)-17,COc1cc(N)c(Cl)cc1C(=O)NC1CCN(CCCOc2ccc(F)cc2)CC1(F)F,1.6 nM,0.55 nM

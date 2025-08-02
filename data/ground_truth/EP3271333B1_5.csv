@@ -1,0 +1,8 @@
+No.,SMILES,Structure,IUPAC_Name,USP7 Ub-Rhoprelnc (IC50) µmol,USP7 Ub-Rho110 Fluor (IC50) µmol
+65,CCc1c(-c2ccc(C(=O)NC3CC3)cc2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[6-amino-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]-N-cyclopropyl-benzamide,7.7,
+66,CCc1c(-c2cccc(CC#N)c2)cnc(N)c1-c1ccc(O)cc1,[mol],2-[3-[6-amino-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]phenyl] acetonitrile,18.3,
+67,CCc1c(-c2ccc(C#N)c(F)c2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[6-amino-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]-2-fluoro-benzonitrile,45,
+68,CCc1c(-c2ccc(OC)nc2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[2-amino-4-ethyl-5-(6-methoxy-3-pyridyl)-3-pyridyl]phenol,>63.3,
+69,CCc1c(-c2cccc(C(=O)NC(C)C)c2)cnc(N)c1-c1ccc(O)cc1,[mol],3-[6-amino-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]-N-isopropyl-benzamide,>63.3,
+70,CCc1c(-c2ccc(CNS(C)(=O)=O)cc2)cnc(N)c1-c1ccc(O)cc1,[mol],N-[[4-[6-amino-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]phenyl]methyl] methane sulfonamide,34.4,
+71,CCc1c(-c2cnn(CC(C)C)c2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[2-amino-4-ethyl-5-(1-isobutylpyrazol-4-yl)-3-pyridyl]phenol,70.6,

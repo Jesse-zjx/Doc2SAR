@@ -1,0 +1,4 @@
+Cpd. No.,SMILES,GR binding IC50 (µM),GRE Reporter EC50 (µM),MR (Agonist) EC50 (µM),PR Binding IC50 (µM),ER Binding IC50 (µM),AR Binding IC50 (µM)
+3,C[C@]12C[C@H](O)[C@H]3[C@@H](C[C@H](F)C4=CC(=O)C=C[C@@]43C)[C@@H]1C[C@H]1O[C@@H](c3ccc(Oc4ccc(N)cc4)cc3)O[C@]12C(=O)CO,0.0036,0.0002,0.0846,0.0026,30++,>30
+41,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@@]43C)[C@@H]1C[C@H]1O[C@@H](c3ccc(Cc4cccc(N)c4)cc3)O[C@]12C(=O)CO,0.0028,0.0014,30++,0.076,30++,>30
+42,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@@]43C)[C@@H]1C[C@H]1O[C@@H](c3ccc(Cc4ccccc4)cc3)O[C@]12C(=O)CO,0.0124,0.0004,10.1,0.0873,9.75,>30

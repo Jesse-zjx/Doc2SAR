@@ -1,0 +1,6 @@
+﻿Compound,SMILES,IC50[µM][b]
+5,N[C@@H](Cc1c[nH]c2ccc(OCc3ccccc3)cc12)C(=O)O,18.8 (7.3–48.3)
+5a,[NH3+][C@@H](Cc1c[nH]c2cccc(OCc3ccccc3)c12)C(=O)O,> 100
+5b,[NH3+][C@@H](Cc1c[nH]c2cc(OCc3ccccc3)ccc12)C(=O)O,> 100
+5c,[NH3+][C@@H](Cc1c[nH]c2c(OCc3ccccc3)cccc12)C(=O)O,> 100
+JPH203,Nc1cc(COc2c(Cl)cc(C[C@@H](N)C(=O)O)cc2Cl)c2oc(-c3ccccc3)nc2c1,0.14 (0.09–1.8)

@@ -1,0 +1,6 @@
+化合物,SMILES,IC50 (µM)
+TBAP-01,CC(C)(C)c1cc(NC(=O)Nc2ccc(Oc3ccnc4[nH]c(=O)cnc34)cc2F)n(-c2cccc(F)c2)n1,0.062
+TBAP-02,Cc1cccc(-n2nc(C(C)(C)C)cc2NC(=O)Nc2ccc(Oc3ccnc4[nH]c(=O)cnc34)cc2F)c1,0.099
+TBAP-03,C(F)(F)(F)c1cccc(-n2nc(C(C)(C)C)cc2NC(=O)Nc2ccc(Oc3ccnc4[nH]c(=O)cnc34)cc2F)c1,0.13
+TBAP-04,COc1cccc(-n2nc(C(C)(C)C)cc2NC(=O)Nc2ccc(Oc3ccnc4[nH]c(=O)cnc34)cc2F)c1,0.047
+TBAP-05,CC(C)(C)c1cc(NC(=O)Nc2ccc(Oc3ccnc4[nH]c(=O)cnc34)cc2F)n(-c2ccnc(O)c2)n1,0.39

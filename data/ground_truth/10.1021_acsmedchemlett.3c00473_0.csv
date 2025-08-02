@@ -1,0 +1,7 @@
+Ex. No.,SMILES,A2a IC50 (nM),A2b IC50 (nM)
+3,COc1cccc2c1nc(N)n1nc(C3CC3c3nc4ccccc4n3C)nc21,0.3,2.9
+38,COc1cccc2c1nc(N)n1nc(C3CC3c3ccc4c(c3)CCNC4)nc21,1.1,3.1
+49,COc1cccc2c1nc(N)n1nc([C@H]3C[C@H](c4ccc(C(C)(C)O)cn4)C3)nc21,1.3,3.3
+83,COc1cccc2c1nc(N)n1nc([C@H]3C[C@H](c4ncc(C(C)(C)N)cc4C)C3)nc21,0.6,1.6
+87,COc1cccc2c1nc(N)n1nc(C3CC(c4ncc(C(C)(C)N)cc4Cl)C3)nc21,0.8,2.7
+144,COc1cccc2c1nc(N)n1nc(C3CCC(c4ccc(C(C)(C)N)cn4)C3)nc21,1.4,0.8

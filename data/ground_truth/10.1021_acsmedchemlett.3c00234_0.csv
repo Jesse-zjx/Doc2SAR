@@ -1,0 +1,7 @@
+Example No.,SMILES,DHODH IC50 (nM),MOLM-13 IC50 (nM)
+1,C(F)(F)(F)[C@@H](C)Oc1cc(-n2cc(C)c([C@H](C)O)n2)c(F)cc1C(=O)Nc1c(F)cccc1Cl,0.48,0.08
+2,C(F)(F)(F)[C@@H](C)Oc1cc(-n2cc(C)c([C@@H](C)O)n2)c(F)cc1C(=O)Nc1c(F)cccc1Cl,0.30,0.03
+3,C(F)(F)(F)[C@@H](C)Oc1cc(-n2cc(C)c(C(C)(C)O)n2)c(F)cc1C(=O)Nc1c(F)cccc1Cl,0.50,0.07
+4,Cc1cn(-c2cc(O[C@@H](C)C(F)(F)F)c(C(=O)Nc3c(C)n[nH]c3Cl)cc2F)nc1[C@H](C)O,0.22,0.26
+5,C(F)(F)(F)[C@@H](C)Oc1cc(-n2cc(C)c([C@@H](C)O)n2)c(F)cc1C(=O)Nc1c(C)n[nH]c1Cl,0.26,0.21
+6,C(F)(F)(F)[C@@H](C)Oc1cc(-n2cc(C)c(C(C)(C)O)n2)c(F)cc1C(=O)Nc1c(C)n[nH]c1Cl,0.38,0.09

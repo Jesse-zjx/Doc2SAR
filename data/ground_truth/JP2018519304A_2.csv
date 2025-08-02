@@ -1,0 +1,7 @@
+化合物No.,SMILES,HCC1954抗增殖活性 EC50（μM）,KPL4抗增殖活性 EC50（μM）,MCF7抗增殖活性 EC50（μM）
+タセリシブ196(米国特許第8242104号)GDC-0032,Cc1nc(-c2cn3c(n2)-c2ccc(-c4cnn(C(C)(C)C(N)=O)c4)cc2OCC3)n(C(C)C)n1,0.04,0.02,0.02
+ピクチリシブGDC-0941,CS(=O)(=O)N1CCN(Cc2cc3nc(-c4cccc5[nH]ncc45)nc(N4CCOCC4)c3s2)CC1,0.75,0.21,0.12
+436(米国特許第8242104号),CC(C)n1ncnc1-c1cn2c(n1)-c1ccc(O[C@@H](C)C(N)=O)cc1OCC2,0.35,0.05,0.09
+102,C[C@H]1COC(=O)N1c1cn2c(n1)-c1ccc(N3CCC[C@H]3C(N)=O)cc1OCC2,0.48,0.05,0.1
+103,NC(=O)[C@@H]1CCCN1c1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3C(F)(F)F)nc1-2,0.15,0.02,0.38
+105,C[C@H](Oc1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3C(F)(F)F)nc1-2)C(N)=O,0.005,0.008,0.05

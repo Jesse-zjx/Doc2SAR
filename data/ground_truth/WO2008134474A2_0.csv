@@ -1,0 +1,18 @@
+Compound (DX),SMILES,"IC50 value, micromolar"
+1,C=CCc1cccc(/C=N/NC(=O)CN2CCN(Cc3ccccc3)CC2)c1O,2.8
+2,C=CCc1cccc(/C=N/NC(=O)CN2CCN(Cc3ccccc3)CC2)c1OC,>80
+3,O=C(CN1CCN(Cc2ccccc2)CC1)N/N=C/c1ccccc1O,8.7
+4,Nc1ccccc1/C=N/NC(=O)CN1CCN(Cc2ccccc2)CC1,>80
+5,c1(N=[N+]=[N-])ccc(/C=N/NC(=O)CN2CCN(Cc3ccccc3)CC2)c(O)c1,>80
+6,C=CCc1cc(/C=N/NC(=O)CN2CCN(Cc3ccccc3)CC2)c(O)c(CC=C)c1,0.9
+7,C=CCc1cccc(/C=N/NC(=O)CN2CCN(Cc3ccccn3)CC2)c1O,9.3
+8,C=CCc1cccc(/C=N/NC(=O)CN2CCN(Cc3cccnc3)CC2)c1O,10.5
+9,C=CCc1cccc(/C=N/NC(=O)CN2CCN(Cc3ccncc3)CC2)c1O,1.2
+10,C=CCc1cccc(/C=N/NC(=O)CN2CCN(Cc3ccc(F)cc3)CC2)c1O,20.6
+11,C=CCc1cccc(/C=N/NC(=O)CN2CCC(Cc3ccccc3)CC2)c1O,3.2
+12,C=CCc1cccc(/C=N/NC(=O)CC2CCN(C(=O)OC(C)(C)C)CC2)c1O,4.9
+13,C=CCc1cccc(CNNC(=O)CN2CCN(Cc3ccccc3)CC2)c1O,47.3
+14,C=CCc1cccc(/C=N/NCCN2CCN(Cc3ccccc3)CC2)c1O,>80
+15,C=CCc1cccc(/C=N/N(C)C(=O)CN2CCN(Cc3ccccc3)CC2)c1O,1.9
+16,O=C(CN1CCN(Cc2ccccc2)CC1)NCc1ccccc1O,>100
+17,O=C(CN1CCN(Cc2ccccc2)CC1)NCCc1ccccc1O,>100

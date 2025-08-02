@@ -1,0 +1,4 @@
+化合物编号,SMILES,TYK2 IC50(nM)
+1,O=C(Nc1nc2cccc(-c3ccc(CN4CCS(=O)(=O)CC4)cc3)n2n1)C1CC1,72.7、73.75、79.07、86.77
+2,O=C(Nc1nc2cccc(-c3ccc(CN4CCOCC4)cc3)n2n1)C1CC1,2096
+11,O=C(Nc1nc2cccc(-c3ccc(CN4CCC(F)(F)CC4)cc3)n2n1)C1CC1,125.8

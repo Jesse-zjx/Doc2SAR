@@ -1,0 +1,10 @@
+﻿Name,SMILES,Receptor binding Ki[nM] [1251](±)DOI,h5-HT₂A Activation EC50[nM],Activation max[%]
+2a,C#CCN(C)C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,0.54,0.98,70
+2b,C#CCN(CC)C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,0.36,0.83,68
+2c,CCN(CC#N)C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,0.19,0.88,68
+2d,CCN(CCF)C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,0.34,0.43,69
+2e,CCN(CC(F)F)C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,0.21,0.76,77
+2f,CCN(CC(F)(F)F)C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,0.45,3.2,82
+2g,N(C)(CC(F)(F)F)C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,0.26,9.1,72
+2h,CN1C[C@H](C(=O)N(CCF)CCF)C=C2c3cccc4[nH]cc(c34)C[C@H]21,0.43,0.25,78
+2i,CN1C[C@H](C(=O)N(CC(F)F)CC(F)F)C=C2c3cccc4[nH]cc(c34)C[C@H]21,0.33,0.9,82

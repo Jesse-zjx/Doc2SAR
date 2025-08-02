@@ -1,0 +1,6 @@
+实施例编号,SMILES,BRD4 BD2 IC50（平均值）,N（记录的值的总数）
+2,CCCNC(=O)c1cc(C(=O)NC)c(=O)n(Cc2ccccc2)c1,6.9,3
+11,CNC(=O)c1cc(C(=O)NCCCc2ncc[nH]2)cn(Cc2ccccc2)c1=O,7.2,3
+13,CNC(=O)c1cc(C(=O)NCCc2cn[nH]c2)cn(Cc2cccc(C)c2)c1=O,7,4
+20,CCN,6.6,2
+25,CCN,7.6,4

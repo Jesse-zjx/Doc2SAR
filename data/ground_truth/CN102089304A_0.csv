@@ -1,0 +1,4 @@
+实施例的化合物编号,SMILES,pIC50
+1,OC1(c2ccccc2)CCCCCC1,9.1
+5,O=C(C[N+]1(CC(=O)Nc2cccnn2)CC2CCC1C2OC(=O)C1(c2cccs2)CCCCCC1)Nc1cccnn1,9.4
+13,O=C(C[N+]12CCC(C1)[C@@H](OC(=O)C1(c3cccc(F)c3)CCCCCC1)C2)Nc1ccon1,10.1

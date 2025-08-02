@@ -1,0 +1,8 @@
+번호,SMILES,"B-세포 a-IgM CD69 발현 IC50 (μM), 보정된 혈장-단백질-결합*","[B-세포 a-IgM CD69 발현 IC50, 보정된 혈장-단백질-결합*] / [p-PRAS40 SW48(H1047R) EC50]"
+101,C[C@H](Nc1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3C(F)F)nc1-2)C(N)=O,0.047,16
+103,NC(=O)[C@@H](Nc1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3C(F)F)nc1-2)C1CC1,0.076,20
+타셀리십,Cc1nc(-c2cn3c(n2)-c2ccc(-c4cnn(C(C)(C)C(N)=O)c4)cc2OCC3)n(C(C)C)n1,0.00031,0.077
+픽틸리십,CS(=O)(=O)N1CCN(Cc2cc3nc(-c4cccc5[nH]ncc45)nc(N4CCOCC4)c3s2)CC1,0.006,0.19
+알펠리십,C(C)(C)(c1cc(-c2sc(NC(=O)N3CCC[C@H]3C(N)=O)nc2C)ccn1)C(F)(F)F,0.048,0.79
+"화합물 436 (미국 특허 제 8,242,104 호)",CC(C)n1ncnc1-c1cn2c(n1)-c1ccc(O[C@@H](C)C(N)=O)cc1OCC2,0.02,2.2
+이텔랄리십,,0.048,< 0.048

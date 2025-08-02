@@ -1,0 +1,7 @@
+Example No.,SMILES,KRAS G12D RAF IC50 (µM),KRAS G12D Nucleotide IC₅₀ (µM)
+1-23,C(#N)C1CCCN(c2nc(OC[C@@]34CCCN3C[C@H](F)C4)nc3c(F)c(-c4cc(O)cc5ccc(F)c(C#C)c45)ncc23)C1,0.002,0.002
+1-88,[C@@H]12CCC[C@]1(COc1nc(N3CCOCC(CO)C3)c3cnc(-c4cc(O)cc5ccc(F)c(C#C)c45)c(F)c3n1)CCCN2C,0.003,0.005
+1-122,[C@@H]12CCC[C@]1(COc1nc(N3CCCOCC3)c3cnc(-c4cc(O)cc5ccc(F)c(C#C)c45)c(F)c3n1)CCCN2CC,0.006,0.002
+1-130,C(#N)CC1COCCN(c2nc(OC[C@]34CCC[C@H]3N(C)CCC4)nc3c(F)c(-c4cc(O)cc5ccc(F)c(C#C)c45)ncc23)C1,0.002,0.002
+1-132,C(F)(F)(F)C1(O)CCCN(c2nc(OC[C@]34CCC[C@H]3N(C)CCC4)nc3c(F)c(-c4cc(O)cc5ccc(F)c(C#C)c45)ncc23)C1,0.003,0.002
+5-1,[C@@H]12CCC[C@]1(COc1nc(N3C[C@H]4C[C@@H]3C(=O)N4)c3ccc(-c4cc(O)cc5ccc(F)c(C#C)c45)c(F)c3n1)CCCN2C,0.003,0.006

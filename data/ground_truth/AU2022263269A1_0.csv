@@ -1,0 +1,8 @@
+No.,SMILES,Structures,IC50(MKS67-Jak1),IC50(Jak1),EC50(P-eJaks)
+2,CCCN(Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1)c1nc2ccccc2o1,[mol],7.8,>100,>30
+3,CCCCN(Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1)c1nc(C)cc(C)n1,[mol],2.7,>10,>30
+4,COc1ccc(-n2cc(C3NC(=O)NC3=O)c(-c3ccc(F)cc3)n2)cc1,[mol],2.9,>100,>30
+5,CCCN(Cc1ccc(-c2ccncc2)cc1)C1=Nc2ccccc2C1,[mol],2.9,66.6,>10
+6,Oc1ccc(CN(Cc2ccc(Br)cc2)c2nc3ccccc3s2)cc1,[mol],3.1,ND,>30
+7,Oc1ccc(CN(Cc2ccc(F)cc2)c2nc(C)c(C)s2)cc1,[mol],3.8,>100,4.9
+8,c1cncc(CN(CCC2CCCCC2)c2nc3ccccc3s2)c1,[mol],4.7,82.3,>10

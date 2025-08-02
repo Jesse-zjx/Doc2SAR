@@ -1,0 +1,7 @@
+Example No.,SMILES,AEP IC50 (nM)
+14,NC(=O)C[C@H](C#Cc1ccncn1)NC(=O)[C@@H]1CCCN1C(=O)C1(c2ccc(OC(F)(F)F)cc2)CC1,0.2
+92,NC(=O)C[C@H](C#Cc1cnccn1)NC(=O)[C@@H]1c2ccccc2CN1C(=O)C1(c2ccc(Cl)cc2)CC1,0.2
+93,NC(=O)C[C@H](C#Cc1ccncn1)NC(=O)[C@@H]1c2ccccc2CN1C(=O)C1(c2ccc(Cl)cc2)CC1,0.1
+94,Cc1nnc(C#C[C@H](CC(N)=O)NC(=O)[C@@H]2c3ccccc3CN2C(=O)C2(c3ccc(Cl)cc3)CC2)o1,0.1
+98,NC(=O)C[C@H](C#Cc1ccncn1)NC(=O)[C@@H]1CCCN1C(=O)C1(c2ccc(Cl)s2)CC1,0.2
+99,Cc1nnc(C#C[C@H](CC(N)=O)NC(=O)[C@@H]2CCCN2C(=O)C2(c3ccc(Cl)s3)CC2)o1,0.2

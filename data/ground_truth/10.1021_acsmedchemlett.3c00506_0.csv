@@ -1,0 +1,7 @@
+Example No.,SMILES,HPK1 IC₅₀ (nM)
+46,COCCOc1ccc(-c2cc(C(N)=O)c3ncnc(N[C@H]4CCCNC4)c3n2)c(C#N)c1,< 100 nM
+54,CS(=O)(=O)Cc1ccc(-c2cc(C(N)=O)c3ncnc(N[C@H]4CCCNC4)c3n2)cc1,< 100 nM
+58,NC(=O)c1cc(-c2ccc(C3(O)CC3)cc2)nc2c(N[C@H]3CCCNC3)ncnc12,< 100 nM
+59,CN1CCN(c2ccc(-c3cc(C(N)=O)c4ncnc(N[C@H]5CCCNC5)c4n3)cn2)CC1,< 100 nM
+72,COc1ccccc1-c1cc(C(N)=O)c2ncnc(N[C@H]3CCCNC3)c2n1,< 100 nM
+76,NC(=O)c1cc(-c2ccc(F)cc2)nc2c(N[C@H]3CCCNC3)ncnc12,< 100 nM

@@ -1,0 +1,5 @@
+Compound,SMILES,Apparent pIC50,Overall Ki(nM),nH
+Isomer A,COc1cc2c(cc1OC)[C@@H]1C[C@H](O)[C@H](CC(C)C)CN1CC2,< 4.0 Two site fit -5.98 ± 0.33 <-4.0,"< 5,900",-0.40 ± 0.08 % sites 47% 53%
+Isomer B,O(C)c1cc2c(cc1OC)[C@@H]1C[C@@H](O)[C@H](CC(C)C)CN1CC2,-5.63 ± 0.05 Two-site fit -5.15 ± 0.11 -7.13 ± 0.26,139 ± 30,-0.52 ± 0.06 % sites 74% 26%
+Isomer C,COc1cc2c(cc1OC)[C@@H]1C[C@H](O)[C@@H](CC(C)C)CN1CC2,-6.32 ± 0.02,28 ± 2,-0.77 ± 0.07
+Isomer D,O(C)c1cc2c(cc1OC)[C@@H]1C[C@H](O)[C@H](CC(C)C)CN1CC2,-5.13 ± 0.07,440 ± 23,-0.72 ± 0.05

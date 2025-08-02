@@ -1,0 +1,16 @@
+﻿Compound,SMILES,"IC50(µM) (NA, H5N1)","IC50(µM) (NA, H5N1-H274Y)",cLogP
+5a,C/C(=N\NC(=O)c1ccc(Cl)cc1)c1ccc(NC(=O)c2ccco2)cc1,21.26 ± 1.73,319.10 ± 102.63,4.11
+5b,C/C(=N\NC(=O)c1ccc(F)cc1)c1ccc(NC(=O)c2ccco2)cc1,19.40 ± 1.35,1.67 ± 0.33,3.54
+5c,C/C(=N\NC(=O)c1ccc(C(C)(C)C)cc1)c1ccc(NC(=O)c2ccco2)cc1,28.55 ± 4.69,0.65 ± 0.27,5.02
+5d,C/C(=N\NC(=O)Cc1cccc2ccccc12)c1ccc(NC(=O)c2ccco2)cc1,46.80 ± 8.79,2.47 ± 0.51,4.7
+5e,C/C(=N\NC(=O)c1ccc(O)cc1)c1ccc(NC(=O)c2ccco2)cc1,0.20 ± 0.06,21.16 ± 4.18,2.87
+5f,[N+](=O)([O-])c1ccc(C(=O)N/N=C(\C)c2ccc(NC(=O)c3ccco3)cc2)cc1,1.53 ± 0.49,27.98 ± 3.35,3.37
+5g,COc1ccc(C(=O)N/N=C(\C)c2ccc(NC(=O)c3ccco3)cc2)cc1,32.01 ± 10.58,4.30 ± 0.84,3.4
+5h,C/C(=N\NC(=O)c1ccc(Cl)cc1)c1ccc(NC(=O)Cc2cccs2)cc1,0.31 ± 0.10,31.83 ± 7.42,4.63
+5i,C/C(=N\NC(=O)c1ccc(F)cc1)c1ccc(NC(=O)Cc2cccs2)cc1,23.60 ± 7.48,0.44 ± 0.08,4.06
+5j,C/C(=N\NC(=O)c1ccc(C(C)(C)C)cc1)c1ccc(NC(=O)Cc2cccs2)cc1,0.94 ± 0.22,1.30 ± 0.19,5.54
+5k,C/C(=N\NC(=O)Cc1cccc2ccccc12)c1ccc(NC(=O)Cc2cccs2)cc1,2.78 ± 0.89,1.18 ± 0.09,5.22
+5l,C/C(=N\NC(=O)c1ccc(O)cc1)c1ccc(NC(=O)Cc2cccs2)cc1,0.65 ± 0.29,8.90 ± 1.36,3.39
+5m,c1([N+](=O)[O-])ccc(C(=O)N/N=C(\C)c2ccc(NC(=O)Cc3cccs3)cc2)cc1,6.10 ± 0.18,3.80 ± 1.25,3.89
+5n,COc1ccc(C(=O)N/N=C(\C)c2ccc(NC(=O)Cc3cccs3)cc2)cc1,0.13 ± 0.02,196.80 ± 61.36,3.92
+OSC,CCC(CC)O[C@@H]1C=C(C(=O)O)C[C@H](N)[C@H]1NC(C)=O,0.31 ± 0.01,10.74 ± 0.03,−

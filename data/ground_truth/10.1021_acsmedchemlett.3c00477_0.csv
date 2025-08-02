@@ -1,0 +1,12 @@
+Compound,SMILES,KDM5B IC50µM,"KDM4A, IC50µM"
+1,N#Cc1c(O)c(C(=O)CCC(=O)O)nc2ccccc12,0.13,40
+2,N#Cc1c(O)c(C(=O)CCC(=O)O)nc2cc(-c3ccccc3)ccc12,0.09,3.9
+3,O=C(O)CCC(=O)c1nc2cc(-c3ccccc3)ccc2cc1O,>40,>40
+7,N#Cc1c(O)c(C(=O)CCC(=O)O)nc2ccc(-c3ccccc3)cc12,0.31,>40
+8,N#Cc1c(O)c(C(=O)CCC(=O)O)nc2ccc(Cc3ccccc3)cc12,0.97,>40
+9,N#Cc1c(O)c(C(=O)CCC(=O)O)nc2cc(Cc3ccccc3)ccc12,0.24,>40
+10,N#Cc1c(O)c(C(=O)CCC(=O)O)nc2cc(Sc3ccccc3)ccc12,0.15,>40
+18,N#Cc1c(O)c(C(=O)CCC(=O)O)nc2ccccc12,0.23,22
+39,O=C(O)CCC(=O)c1nc2cc(-c3ccccc3)ccc2cc1O,0.37,>40
+54,COc1ccc(-c2ccc3c(C#N)c(O)c(C(=O)CCC(=O)O)nc3c2)cc1,0.22,>40
+111,N#Cc1ccc(-c2cccc3c(C#N)c(O)c(C(=O)CCC(=O)O)nc23)cc1,0.13,7.9

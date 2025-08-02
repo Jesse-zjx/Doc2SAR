@@ -1,0 +1,9 @@
+Compound,SMILES,Cannabinoid-CB1 receptor binding (pKi),Acetylcholinesterase inhibition (pIC50)
+compound 1,O=S(=O)(N=C(NCCCCCCCNc1c2c(nc3ccccc13)CCCC2)N1CC(c2ccccc2)C(c2ccc(Cl)cc2)=N1)c1ccc(Cl)cc1,7.3,6.0 ± 0.3
+compound 2,O=S(=O)(/N=C(/NCCCCNc1c2c(nc3ccccc13)CCCC2)N1CC(c2ccccc2)C(c2ccc(Cl)cc2)=N1)c1ccc(Cl)cc1,7.4,5.6 ± 0.4
+compound 3,CCc1c(C(=O)NCCCCCCCNc2c3c(nc4ccccc24)CCCC3)nc(-c2ccccc2Cl)n1-c1ccc(Cl)cc1,7.2,5.9 ± 0.3
+compound 4,CCc1c(C(=O)NCCCCNc2c3c(nc4ccccc24)CCCC3)nc(-c2ccccc2Cl)n1-c1ccc(Cl)cc1,7.5,6.5 ± 0.3
+rimonabant,Cc1c(C(=O)NN2CCCCC2)nn(-c2ccc(Cl)cc2Cl)c1-c1ccc(Cl)cc1,7.2,4.6 ± 0.2
+SLV319,,8.1,5.2 ± 0.1
+WO 03/027076 *,CCc1c(C(=O)NN2CCCCC2)nc(-c2ccccc2Cl)n1-c1ccc(Cl)cc1,7.9,< 4.5
+tacrine,,< 6.0,6.6

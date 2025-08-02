@@ -1,0 +1,15 @@
+﻿Compound,SMILES,Inhibition (%) @ 5 µg/mL,IC50 (nM)
+11D,CN(C)C(=O)Nc1ccc(/C=C/c2ccc3c(c2)OCO3)cc1,91.1,644 ± 41.5
+11E,CC(C)CNC(=O)Nc1ccc(/C=C/c2ccc3c(c2)OCO3)cc1,94.5,2.68 ± 1.20
+11F,CC(C)CCNC(=O)Nc1ccc(/C=C/c2ccc3c(c2)OCO3)cc1,95,1.22 ± 0.35
+11G,CCC(CC)NC(=O)Nc1ccc(/C=C/c2ccc3c(c2)OCO3)cc1,58.9,NTa
+11H,C[C@@H](O)CNC(=O)Nc1ccc(/C=C/c2ccc3c(c2)OCO3)cc1,44.4,NT
+11I,C[C@H](O)CNC(=O)Nc1ccc(/C=C/c2ccc3c(c2)OCO3)cc1,51.1,NT
+11J,CN1CCN(C(=O)Nc2ccc(/C=C/c3ccc4c(c3)OCO4)cc2)CC1,NT,2740
+11K,CCC(=O)N1CCN(C(=O)Nc2ccc(/C=C/c3ccc4c(c3)OCO4)cc2)CC1,88.6,200 ± 15.1
+11L,CN1CCC(NC(=O)Nc2ccc(/C=C/c3ccc4c(c3)OCO4)cc2)CC1,NT,2600
+11M,CCC(=O)N1CCC(NC(=O)Nc2ccc(/C=C/c3ccc4c(c3)OCO4)cc2)CC1,94.3,8.02 ± 0.12
+11P,O=C(NCC1CCOCC1)Nc1ccc(/C=C/c2ccc3c(c2)OCO3)cc1,98.6,1.63 ± 0.03
+11Q,O(c1ccc(NC(=O)Nc2ccc(/C=C/c3ccc4c(c3)OCO4)cc2)cc1)C(F)(F)F,21,NT
+TPPU,O(c1ccc(NC(=O)NC2CCN(C(=O)CC)CC2)cc1)C(F)(F)F,99.5,43.77 ± 1.65
+EC5026,O(c1ccc(NC(=O)NC2CCN(C(=O)[C@H](C)CC)CC2)cc1F)C(F)(F)F,99.7,19.11 ± 1.91

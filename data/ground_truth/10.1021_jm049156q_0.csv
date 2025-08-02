@@ -1,0 +1,5 @@
+﻿no.,SMILES,Kia(nM) AChE,IC50(nM) AChE,IC50(nM) BChE,IC50(µM) Aβ aggregation
+1,Nc1c2c(nc3ccccc13)CCCC2,151 ± 16b,424 ± 21,45.8 ± 3.0,nac
+2,[N+](C)(CC)(CC)CCC[n+]1c(-c2ccccc2)c2cc(N)ccc2c2ccc(N)cc21,7140 ± 620,32300 ± 2200,13200 ± 400,12.6 ± 2.0
+4,Nc1ccc2c(c1)c(-c1ccccc1)[n+](CCCNCCCNCCCNc1c3c(nc4ccccc14)CCCC3)c1cc(N)ccc21,1.49 ± 0.52,1.55 ± 0.16,63.7 ± 2.8,13.8 ± 1.8
+5,O(C)c1ccccc1CN(C)CCCN(C)CCCNCCC[n+]1c(-c2ccccc2)c2cc(N)ccc2c2ccc(N)cc21,894 ± 81,952 ± 34,2190 ± 60,17.7 ± 1.6

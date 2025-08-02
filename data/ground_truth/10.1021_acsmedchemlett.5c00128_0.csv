@@ -1,0 +1,7 @@
+﻿Compound No.,SMILES,SMARCA2 IC50(nM)
+1,C[C@H]1CN(c2cccc(-c3ccc4cnc(CNC(=O)c5ccc6c(c5)N(S(C)(=O)=O)CC6)cc4n3)n2)C[C@@H](C)O1,1.63
+2,CC(C)S(=O)(=O)N1CCc2ccc(C(=O)NCc3cc4nc(-c5cccc(N6C[C@H](C)O[C@H](C)C6)n5)ccc4cn3)cc21,6.7
+5,CCS(=O)(=O)N1CCc2ccc(C(=O)NCc3cc4nc(-c5cccc(N6C[C@H](C)O[C@H](C)C6)n5)ccc4cn3)cc21,3.6
+6,C=CCS(=O)(=O)N1CCc2ccc(C(=O)NCc3cc4nc(-c5cccc(N6C[C@H](C)O[C@H](C)C6)n5)ccc4cn3)cc21,8.14
+9,C[C@H]1CN(c2cccc(-c3ccc4cnc(CNC(=O)c5cc(Cl)c6c(c5)N(S(C)(=O)=O)CC6)cc4n3)n2)C[C@@H](C)O1,2.27
+10,C[C@H]1CN(c2cccc(-c3ccc4cnc(CNC(=O)c5cc6c(cn5)CCN6S(C)(=O)=O)cc4n3)n2)C[C@@H](C)O1,6.33

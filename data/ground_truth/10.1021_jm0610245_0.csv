@@ -1,0 +1,5 @@
+﻿Compound,SMILES,NS5B IC50(µM)a
+1,c1(OCc2ccccc2)ccc(-c2nc3cc(C(=O)O)ccc3n2C2CCCCC2)cc1,1.4
+2,O(Cc1ccccc1)c1ccc(-c2c(C3CCCCC3)c3ccc(C(=O)O)cc3n2C)cc1,0.12
+3,O(Cc1ccccc1)c1ccc2c(c1)OCCn1c-2c(C2CCCCC2)c2ccc(C(=O)O)cc21,0.017
+4,c1(C(=O)O)ccc2c(C3CCCCC3)c3n(c2c1)CCOc1ccccc1-3,0.026

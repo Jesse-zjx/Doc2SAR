@@ -1,0 +1,7 @@
+Example No.,SMILES,NLRP3 IC50 (nM)
+19,CCN1CCC[C@@H](Nc2nc3nc(-c4c(C)cc(Cl)cc4O)ccc3o2)C1,0.4
+20B,[C@@H]12CCN(C)C[C@@H]1N(c1nc3nc(-c4c(C)cc(Cl)cc4O)ccc3o1)CC2,0.5
+21,CCN1CCC[C@H](Nc2nc3nc(-c4c(C)cc(Cl)c(F)c4O)ccc3o2)C1.O=C(O)C(F)(F)F,0.6
+41,Cc1cc(Cl)cc(O)c1-c1ccc2oc(N[C@H]3CCCN4CCC[C@H]34)nc2n1,0.6
+86,COC(=O)CCN1CCC[C@H](Nc2nc3nc(-c4c(C)cc(Cl)cc4O)ccc3o2)C1,0.6
+113,CCN1CCC[C@H](Nc2nc3nc(-c4c(C)cc(Cl)cc4O)ccc3o2)C1.O=C(O)C(F)(F)F,0.5

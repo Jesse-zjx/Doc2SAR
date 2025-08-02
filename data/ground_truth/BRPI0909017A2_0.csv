@@ -1,0 +1,22 @@
+Nº do composto,SMILES,Ensaio in vitro de SPA PARP-1 pIC50,Ensaio de SPA in vitro TANK-2 pIC50,Ensaio de Classificação de Polimerização de tubulina,Ensaio celular Eb1 pLAC,Ensaio celular HCT116 pIC50
+1,CC(C#N)(Cc1ccccc1)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3,744,785,2,,645
+2,C[C@](C#N)(Cc1ccccc1)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3,733,743,,,<5
+3,C[C@@](C#N)(Cc1ccccc1)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3,726,748,,,680
+4,CC(C#N)(Cc1cccc(C#N)c1)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3,903,776,2,,683
+5,CC(C#N)(Cc1cccc(F)c1)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3,901,771,2,7,655
+5a,C[C@@](C#N)(Cc1cccc(F)c1)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3,780,740,,,<5
+5b,C[C@@](C#N)(Cc1cccc(F)c1)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3,744,747,,,701
+6,COc1cc(OC)nc(CC(C)(C#N)c2ccc3c4c(c(=O)[nH]c3c2)CCCC4)n1,727,772,3,8,724
+7,CC(C#N)(Cc1cccc(C#N)n1)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3,838,802,3,75,723
+8,CC(C#N)(Cc1cccc(Cl)c1)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3,708,728,2,,681
+9,CC(C#N)(Cc1cc(Cl)nc(Cl)c1)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3,720,635,,,680
+10,CC(C#N)(Cc1cccc(OC(F)(F)F)c1)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3,666,723,,,673
+11,COc1cccc(CC(C)(C#N)c2ccc3c4c(c(=O)[nH]c3c2)CCCC4)c1,706,745,,,681
+12,Cn1nc(CC(C)(C#N)c2ccc3c4c(c(=O)[nH]c3c2)CCCC4)c2ccccc21,734,737,,,675
+13,Cn1c(CC(C)(C#N)c2ccc3c4c(c(=O)[nH]c3c2)CCCC4)nc2ccccc21,738,737,,,657
+14,COC(=O)c1cccc(CC(C)(C#N)c2ccc3c4c(c(=O)[nH]c3c2)CCCC4)c1,701,720,,,698
+15,CC(C#N)(Cc1cccc(CO)c1)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3,748,739,,,664
+16,CC(C#N)(Cc1cccc(CN)c1)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3,610,742,,,638
+17,CC(C#N)(CCOc1ccc(C#N)cc1)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3,735,728,2,,669
+18,CN(CC(C)(C#N)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3)C(=O)c1ccccc1,,,,,<5
+19,CN(Cc1ccc(C#N)cc1)CC(C)(C#N)c1ccc2c3c(c(=O)[nH]c2c1)CCCC3,,719,,,623

@@ -1,0 +1,9 @@
+NAME,SMILES,IC50 vs. HL-60,Fold better than PAC-1
+PAC-1,,54.6 µM,1.0
+L01R03,C=CCc1cccc(/C=N/NC(=O)CN2CCN(Cc3ccccc3)CC2)c1O,5.63 µM,9.7-fold
+L02R03,CC(C)(C)c1cc(/C=N/NC(=O)CN2CCN(Cc3ccccc3)CC2)c(O)c(C(C)(C)C)c1,4.34 µM,12.6-fold
+L02R06,C=CCc1cccc(/C=N/NC(=O)CN2CCN(Cc3ccc(C(C)(C)C)cc3)CC2)c1O,6.53 µM,8.4-fold
+L08R06,CC(C)(C)c1cc(/C=N/NC(=O)CN2CCN(Cc3ccc(CCc4ccccc4)cc3)CC2)c(O)c(C(C)(C)C)c1,5.31 µM,10.3-fold
+L09R03,C=CCc1cccc(/C=N/NC(=O)CN2CCN(Cc3ccc(OCc4ccccc4)c(OCc4ccccc4)c3)CC2)c1O,4.82 µM,11.3-fold
+L09R06,CC(C)(C)c1cc(C=NNC(=O)CN2CCN(Cc3ccc(OCc4ccccc4)c(OCc4ccccc4)c3)CC2)c(O)c(C(C)(C)C)c1,4.17 µM,13.1-fold
+L09R08,O=C(CN1CCN(Cc2ccc(OCc3ccccc3)c(OCc3ccccc3)c2)CC1)N/N=C/c1c(O)ccc2ccccc12,2.42 µM,22.6-fold

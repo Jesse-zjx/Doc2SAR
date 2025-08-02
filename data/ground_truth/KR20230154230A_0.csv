@@ -1,0 +1,9 @@
+화합물,SMILES,구조,DNMT1 IC50(nM),래트 경구 생체이용률 (%),FaSSIF 용해도 (μg/mL)
+실시예 1,CCc1c(C#N)c(S[C@H](C(=O)NP(=O)(O)O)c2ccc(OS(C)(=O)=O)cc2)nc(N(C)C)c1C#N,[mol],16139a,,> 1000
+실시예 2,CCc1c(C#N)c(S[C@H](C(N)=O)c2ccc(OS(C)(=O)=O)cc2)nc(N(C)C)c1C#N,[mol],54a,40,1
+실시예 3,CCc1c(C#N)c(SC(C(=O)NP(=O)(O)O)c2ccc(OS(C)(=O)=O)cc2)nc(N(C)C)c1C#N,[mol],5209a,,> 1000
+실시예 4,CCc1c(C#N)c(SC(C(N)=O)c2ccc(OS(C)(=O)=O)cc2)nc(N(C)C)c1C#N,[mol],107a,,< 1
+참조 화합물 1,CCc1c(C#N)c(S[C@H](C(=O)NP(=O)(O)O)c2ccc(OS(C)(=O)=O)cc2)nc(N(C)C)c1C#N,[mol],89a,,< 1
+참조 화합물 2,CCc1c(C#N)c(S[C@H](C(N)=O)c2ccccc2)nc(N2CC[C@H](O)C2)c1C#N,[mol],156a,,2.7
+참조 화합물 3,CCc1c(C#N)c(SC(C(N)=O)c2ccc(Cl)cc2)nc(N(C)C)c1C#N,[mol],631b,,
+참조 화합물 4,CCc1c(C#N)c(S[C@H](C(N)=O)c2ccc(OC)cc2)nc(N2CC[C@H](O)C2)c1C#N,[mol],79b,6.1,4

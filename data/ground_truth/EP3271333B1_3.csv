@@ -1,0 +1,9 @@
+No.,SMILES,Structure,IUPAC_Name,USP7 Ub-Rhoprelnc (IC50) µmol,USP7 Ub-Rho110 Fluor (IC50) µmol
+35,CCc1c(-c2ccc(C)nc2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[2-amino-4-ethyl-5-(6-methyl-3-pyridyl)-3-pyridyl]phenol,31.2,
+36,CCc1c(-c2ccc(C)cc2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[2-amino-4-ethyl-5-(p-tolyl)-3-pyridyl]phenol,18.1,
+37,CCc1c(-c2ccccc2)cnc(N)c1-c1ccc(O)cc1,[mol],4-(2-amino-4-ethyl-5-phenyl-3-pyridyl)phenol,17.8,
+38,CCc1c(-c2ccncc2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[2-amino-4-ethyl-5-(4-pyridyl)-3-pyridyl]phenol,52.4,
+39,CCc1c(-c2cccnc2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[2-amino-4-ethyl-5-(3-pyridyl)-3-pyridyl]phenol,41,
+40,CCc1c(-c2ccc(O)cc2)cnc(NCC2CC2)c1-c1ccc(O)cc1,[mol],4-[6-(cyclopropylmethylamin o)-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]phenol,19.9,
+41,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1cccc(NS(C)(=O)=O)c1,[mol],N- [3 - [2-amino-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]phenyl] methane sulfonamide,118,
+42,CCc1c(-c2cccc(N3CCNCC3)c2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[2-amino-4-ethyl-5-(3-piperazin-1-ylphenyl)-3-pyridyl]phenol,165,

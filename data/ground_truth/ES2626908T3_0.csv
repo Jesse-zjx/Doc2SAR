@@ -1,0 +1,12 @@
+Comp. #,SMILES,JAK1 IC50(nM)
+Compuesto ilustrativo 1,O=C(Nc1nc2cccc(-c3ccc(CN4CCS(=O)(=O)CC4)cc3)n2n1)C1CC1,"47.07, 55.66, 50.1, 48.29"
+Compuesto comparativo 2,O=C(Nc1nc2cccc(-c3ccc(CN4CCOCC4)cc3)n2n1)C1CC1,"50.91, 52.11"
+Compuesto comparativo 3,O=C(Nc1nc2cccc(-c3cccc(CN4CCOCC4)c3)n2n1)C1CC1,291
+Compuesto comparativo 4,O=C(Nc1nc2cccc(-c3ccc(N4CCOCC4)nc3)n2n1)C1CC1,1032
+Compuesto comparativo 5,O=C(Nc1nc2cccc(-c3ccc(N4CCOCC4)cc3)n2n1)C1CC1,1450
+Compuesto comparativo 6,CN1CCN(Cc2ccc(-c3cccc4nc(NC(=O)C5CC5)nn34)cc2)CC1,3448
+Compuesto comparativo 7,O=C(Nc1nc2cccc(-c3ccc(CN4CCCCC4)cc3)n2n1)C1CC1,504.1
+Compuesto comparativo 8,NC(=O)C1CCN(Cc2ccc(-c3cccc4nc(NC(=O)C5CC5)nn34)cc2)CC1,435
+Compuesto comparativo 9,CC(=O)N1CCN(Cc2ccc(-c3cccc4nc(NC(=O)C5CC5)nn34)cc2)CC1,334.3
+Compuesto comparativo 10,O=C(Nc1nc2cccc(-c3ccc(C(=O)N4CCS(=O)(=O)CC4)cc3)n2n1)C1CC1,18.16
+Compuesto comparativo 11,O=C(Nc1nc2cccc(-c3ccc(CN4CCC(F)(F)CC4)cc3)n2n1)C1CC1,7.69

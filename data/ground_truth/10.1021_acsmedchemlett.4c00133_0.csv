@@ -1,0 +1,7 @@
+﻿Compound,SMILES,MPO IC50(µM)
+1b,O=c3[nH]c(=S)n(Cc1ccccc1C2CCCCN2)c4cc[nH]c34,0.0021
+10b,O=c3[nH]c(=S)n(Cc1ccccc1C2CC(C(F)(F)F)CCN2)c4cc[nH]c34,0.0015
+12b,O=c3[nH]c(=S)n(Cc1ccccc1C2CC(C(F)F)CCN2)c4cc[nH]c34,0.0027
+13b,O=c3[nH]c(=S)n(Cc1ccccc1C2C[C@H](C(F)(F)F)CCN2)c4nc[nH]c34,0.0023
+18b,O=c3[nH]c(=S)n(Cc1ccccc1C2CC(C(F)(F)F)CCN2)c4nc[nH]c34,0.0027
+19b,O=c3[nH]c(=S)n(Cc1ccccc1C2CC([C@@H](F)F)CCN2)c4cc[nH]c34,0.0013

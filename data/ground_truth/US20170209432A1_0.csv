@@ -1,0 +1,9 @@
+Compound No.,SMILES,LSD1 IC50 (uM),MAO-A IC50 (uM),MAO-B IC50 (uM)
+Compound 1,N(CC(N)=O)[C@H]1C[C@@H]1c1ccc(OCc2ccccc2)cc1,<0.20,>2,<0.20
+Compound 2,N(CC(N)=O)[C@H]1C[C@@H]1c1ccc(OCc2ccccc2)cc1,<0.20,>2,>0.20
+Compound 3,CN1CCN(C(=O)CN[C@H]2C[C@@H]2c2ccc(OCc3ccccc3)cc2)CC1,<0.10,>2,>2
+Compound 4,C(F)(F)(F)c1cccc(-c2ccc([C@H]3C[C@@H]3N)cn2)c1,<0.10,>2,>2
+Compound 5,C(F)(F)(F)c1cccc(-c2ccc([C@H]3C[C@@H]3NCCN3CC[C@H](N)C3)cc2)c1,<0.20,>0.5,>1
+Compound 6,N[C@H]1C[C@@H]1c1ccc(-c2cccc(O)c2)cc1,<0.07,>1,>2
+Compound 7,N(c1cccc(-c2ccc([C@H]3C[C@@H]3N)cn2)c1)S(C)(=O)=O,<0.07,>2,>2
+Compound 8,CC(C)S(=O)(=O)Nc1cccc(-c2ccc([C@H]3C[C@@H]3N)cc2)c1,<0.07,>1,>10

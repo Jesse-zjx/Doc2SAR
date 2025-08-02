@@ -1,0 +1,20 @@
+﻿Entry,SMILES,MMV,IC50,Hill slope,MW (g/mol),ClogP1
+1,COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC,28,5.1 ± 0.8,1.8 ± 0.4,290.32,1.29
+2,CCCCCCC1c2ccc(O)cc2Oc2cc(O)ccc21,1593535,10 ± 1.0,2.5 ± 0.6,298.38,4.41
+3,Fc1ccc(-n2cc(Cn3c(-c4cccc(F)c4)nc4ccccc43)nn2)cc1,1580850,4.1 ± 0.7,1.7 ± 0.5,387.38,4.29
+4,Oc1cccc(C(Nc2nccs2)c2ccc3cccnc3c2O)c1,642550,1.4 ± 0.2,1.2 ± 0.1,349.41,3.2
+5,O=C(CP(=O)(O)O)NCCc1cccc(Oc2ccccc2)c1,1579787,7.0 ± 1.0,2.2 ± 0.9,335.29,1.58
+6,CONC(=N)c1ccc(-c2ccc(-c3ccc(C(=N)NOC)cc3)o2)cc1,1645051,2.9 ± 0.3,1.4 ± 0.2,296.9,2.01
+7,O=[N+]([O-])/C(Br)=C/c1ccc(Br)o1,59,5.4 ± 0.6,1.6 ± 0.3,364.4,3.13
+8,C[C@@H](c1nc(-c2ccc(C#N)cc2)cs1)[C@](O)(Cn1cncn1)c1ccc(F)cc1F,1634362,5.2 ± 0.7,2.0 ± 0.5,437.47,3.89
+9,O=C1c2cccc3cccc(c23)C(=O)N1CC1CO1,1634360,4.8 ± 0.7,1.5 ± 0.3,253.25,2.29
+10,O=c1cc(Nc2ccc3ccccc3c2)[nH]c(=O)[nH]1,1581546,1.8 ± 0.9,1.0 ± 0.4,253.26,2.05
+11,COc1ccc(C)cc1NC(=O)c1ccc(S(=O)(=O)N2CCCCC2)cc1,1578579,2.4 ± 0.5,1.1 ± 0.2,388.48,3.03
+12,Cc1ccc(Oc2ccccc2-c2csc(NC3=NCCCN3)n2)c(C)c1,1634493,5.4 ± 0.6,2.0 ± 0.4,378.49,4.06
+13,O=C(NCc1ccc(F)cc1)c1c(O)c2ncccc2[nH]c1=O,1782097,1.9 ± 0.3,1.3 ± 0.2,313.28,1.89
+14,O=C(O)c1ccc(-n2nc(-c3ccccc3O)nc2-c2ccccc2O)cc1,640014,2.1 ± 0.4,1.0 ± 0.9,373.36,3.07
+15,O=C(Nc1nnc(-c2ccc(Cl)cc2)o1)c1nc2ccccc2s1,102833,5.5 ± 0.1,1.3 ± 0.2,359.79,3.44
+16,Nc1nc(O)ncc1F,4508,6.9 ± 0.9,3.9 ± 2.1,129.09,0.1
+17,CN(C)CCCNC(=O)c1ccc(-c2cc(O)c3ncccc3c2)cc1,1580488,0.34 ± 0.04,1.5 ± 0.3,349.43,3.01
+18,Cc1cc(-c2ccccc2)c(C(=O)C(=O)Nc2ccc(N3CCN(c4ncc(F)cn4)CC3)cc2)n1C,1782354,4.2 ± 0.7,1.3 ± 0.2,498.55,3.45
+19,[C@@H]1(C(N)=O)CCCN1Cc1cn(Cc2ccc(F)cc2)c2cnc(C(=O)N(C)O)cc12,1782386,4.2 ± 0.4,1.4 ± 0.2,425.46,1.59

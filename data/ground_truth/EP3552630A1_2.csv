@@ -1,0 +1,6 @@
+Compound,SMILES,Rat NHE3,Human NHE3,pIC50 Human Nap2B,Unnamed: 4,Unnamed: 5
+001a,CN1C=c2c(Cl)cc(Cl)cc2=C(c2cccc(NC(=O)[C@@H](O)[C@H](O)[C@H](O)CO)c2)C1,7.6,nd,7.4,nd,
+002b,CN1Cc2c(Cl)cc(Cl)cc2[C@H](c2cccc(S(=O)(=O)NCCOCCOCCNC(=O)NCCCCNC(=O)NCCOCCOCCNS(=O)(=O)c3cccc([C@@H]4CN(C)Cc5c(Cl)cc(Cl)cc54)c3)c2)C1,8,8.4,8,8.2,<4.5
+003b,CN1Cc2c(Cl)cc(Cl)cc2[C@H](c2cccc(S(=O)(=O)NCCOCCOCCNC(=O)Nc3ccc(NC(=O)NCCOCCOCCNS(=O)(=O)c4cccc([C@@H]5CN(C)Cc6c(Cl)cc(Cl)cc65)c4)cc3)c2)C1,8.6,nd,8,8.1,nd
+004b,CN1Cc2c(Cl)cc(Cl)cc2[C@H](c2cccc(S(=O)(=O)NCCOCCOCCNC(=O)NCCCCNC(=O)NCCOCCOCCNS(=O)(=O)c3cccc([C@@H]4CN(C)Cc5c(Cl)cc(Cl)cc54)c3)c2)C1,7.3,5.6,7.3,5.6,nd
+005b,CN1Cc2c(Cl)cc(Cl)cc2[C@H](c2cccc(S(=O)(=O)NCCOCCOCCNC(=O)NCCCCNC(=O)NCCOCCOCCNS(=O)(=O)c3cccc(C4CN(C)Cc5c(Cl)cc(Cl)cc54)c3)c2)C1,<5.0,nd,<5.0,nd,nd

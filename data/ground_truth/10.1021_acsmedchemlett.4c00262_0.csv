@@ -1,0 +1,7 @@
+Example No.,SMILES,hAHR EC50 (nM)
+2,O=C(c1n[nH]c2c(F)cccc12)N1CCOc2ccccc2C1,0.227
+3,O=C(c1n[nH]c2ccccc12)N1CCOc2ccncc2C1,0.237
+4,O=C(c1n[nH]c2ccc(F)cc12)N1CCOc2ccncc2C1,0.279
+5,O=C(c1n[nH]c2c(F)cccc12)N1CCNc2ccccc2C1,0.283
+9,O=C(c1n[nH]c2ccccc12)N1CCNc2ccc(F)cc2C1,0.154
+19,O=C(c1n[nH]c2ccccc12)N1CCOc2cccc(F)c2C1,0.404

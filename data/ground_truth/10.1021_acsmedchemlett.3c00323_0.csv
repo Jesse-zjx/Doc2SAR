@@ -1,0 +1,7 @@
+Example No.,SARS-CoV-2 3CL IC50 (µM),SMILES
+4,0.006,C(=O)(N[C@H](C(=O)N1C[C@@H]2CCC[C@@H]2[C@H]1C(=O)NN(C[C@@H]1CCNC1=O)C(=O)[C@H](F)Cl)C(C)(C)C)C(F)(F)F
+18,0.006,C(=O)(N[C@H](C(=O)N1C[C@H]2[C@@H]([C@H]1C(=O)NN(C[C@@H]1CCNC1=O)C(=O)CCl)C2(C)C)C(C)(C)C)C(F)(F)F
+50,0.006,CC[C@H](C)[C@H](NC(=O)C(F)(F)C(F)(F)F)C(=O)N1C[C@@H]2CCC[C@@H]2[C@H]1C(=O)NN(C[C@@H]1CCNC1=O)C(=O)[C@H](F)Cl
+84,0.007,C(=O)(N[C@@H](C(=O)N1C[C@H]2[C@@H]([C@H]1C(=O)NN(C[C@@H]1CCNC1=O)C(=O)[C@H](F)Cl)C2(C)C)C(CC)CC)C(F)(F)F
+149,0.006,CCC(C)(C)[C@H](NC(=O)C1(F)CC1)C(=O)N1C[C@@H]2CCC[C@H]2[C@H]1C(=O)NN(C[C@@H]1CCNC1=O)C(=O)[C@@H](F)Cl
+191,0.007,CC[C@H](C)[C@@H](NC(=O)[C@H](F)Cl)C(=O)N1C[C@@H]2CCC[C@@H]2[C@H]1C(=O)NN(C[C@@H]1CCCNC1=O)C(=O)[C@@H](F)Cl

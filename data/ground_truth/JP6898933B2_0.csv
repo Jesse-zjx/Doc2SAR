@@ -1,0 +1,6 @@
+,SMILES,hOX1 pIC50,hOX2 pIC50,hOX1 pKi,hOX2 pKi
+实施例 1,Cc1ccc(-n2nccn2)c(C(=O)N(C)[C@@H](C)CNc2cnc(C(F)(F)F)cn2)n1,9.1,6,9,6.6
+实施例 2,Cc1ccc(-n2nccn2)c(C(=O)N(C)[C@@H](C)CNc2ncc(C(F)(F)F)cn2)n1,8.9,5.7,8.8,6.1
+,,,,,
+,,,,,
+,Parameter,,,,

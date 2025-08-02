@@ -1,0 +1,7 @@
+﻿Compound No.,SMILES,MALT1 IC50 (μM)
+22,[2H]C([2H])([2H])NC(=O)[C@@]1(C)[C@H](c2ccc(N3C[C@](C)(C(F)(F)F)c4c3cnc3cc(Cl)nn43)cc2)C1(F)F,0.0060
+26,C[C@@]1(C(F)(F)F)CN(c2ccc(C3C(F)(F)C3(CO)C(N)=O)cc2)c2cnc3cc(Cl)nn3c21,0.0058
+39,C[C@@]1(C(F)(F)F)CN(c2ccc([C@H]3C(F)(F)[C@]3(C)C(=O)NCCS(N)(=O)=O)cc2)c2cnc3cc(Cl)nn3c21,0.0061
+49,C[C@@]1(C(F)(F)F)CN(c2ccc([C@H]3C(F)(F)[C@]3(F)C(=O)N[C@H]3C[C@@H](CS(C)(=N)=O)C3)cc2)c2cnc3cc(Cl)nn3c21,0.0053
+209,C[C@@]1(C(F)(F)F)CN(c2ccc([C@H]3C(F)(F)[C@]3(C)C(=O)NCC3CNC(=O)C3)cc2)c2cnc3cc(Cl)nn3c21,0.0059
+210,C[C@@]1(C(F)(F)F)CN(c2ccc([C@@H]3C(F)(F)[C@]3(C)C(=O)NCC(N)=O)cc2)c2cnc3cc(Cl)nn3c21,0.0055

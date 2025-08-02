@@ -1,0 +1,7 @@
+Example No.,SMILES,FP PARP1 IC50 (µM)
+1,CCc1nc2c(F)cc(CN3CCN(c4ccc(C(=O)NC)nc4)CC3)cc2[nH]c1=O,0.0033
+3,Cc1nc2c(F)cc(CN3CCN(c4ccc(C(=O)NC5CC5)nc4F)CC3)cc2[nH]c1=O,0.0049
+6,CNC(=O)c1ccc(N2CCN(Cc3cc(F)c4nc(C)c(=O)[nH]c4c3)CC2)c(F)n1,0.0048
+9,CNC(=O)c1ccc(N2CCN(Cc3ccc4cc(C)c(=O)[nH]c4c3F)CC2)c(F)n1,0.0037
+12,CNC(=O)c1ccc(N2CCN(Cc3cc(F)c4nc(C)c(=O)[nH]c4c3)CC2)c(Cl)n1,0.0049
+25,O=C(NC1CC1)c1ccc(N2CCN(Cc3ccc4cc(C(F)F)c(=O)[nH]c4c3F)CC2)c(F)n1,0.0027

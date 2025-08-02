@@ -1,0 +1,11 @@
+Compuesto,SMILES,pKd FGFR1,pKd FGFR2,pKd FGFR3,pKd FGFR4,pKd VEGFR2
+1,O(C)c1cc(OC)c2c(c1)N(c1ccc3ncc(-c4cnn(C)c4)cc3c1)CCN(C(C)C)C2,5.85,5.73,5.89,5.61,<5.52
+2,COc1cc(OC)c2c(c1)N(c1ccc3ncc(-c4cnn(C)c4)cc3c1)CCN(C)C2,5.94,<5.52,5.62,<5.52,<5.52
+3,O(C)c1cc(OC)c2c(c1)N(c1ccc3ncc(-c4cn[nH]c4)cc3c1)CCN(C(C)C)C2,6.48,6.05,6.27,5.86,<5.52
+4,COc1cc(O)cc2c1CN(C(C)C)CCN2c1ccc2ncc(-c3cnn(C)c3)cc2c1,<5.52,<5.52,<5.52,<5.52,<5.52
+5,c1(OC)cc(O)c2c(c1)N(c1ccc3ncc(-c4cnn(C)c4)cc3c1)CCN(C(C)C)C2,5.71,<5.52,5.9,<5.52,<5.52
+6,CC(C)N1CCN(c2ccc3ncc(-c4cnn(C)c4)cc3c2)c2cc(O)cc(O)c2C1,<5.52,<5.52,<5.52,<5.52,<5.52
+7,O(C)c1cc(OC)c2c(c1)N(c1ccc3ncc(-c4cnn(C)c4)nc3n1)CCN(C(C)C)C2,<5.52,<6,<5.52,<5.52,6.57
+9,O(C)c1cc(OC)c2c(c1)N(c1ccc3ncc(-c4cnn(C)c4)cc3n1)CCN(C(C)C)C2,6.85,6.03,6.53,6.72,5.98
+11,COc1cc(OC)c2c(c1)N(c1ccc3ncn(-c4cnn(C)c4)c(=O)c3c1)CCN(C(C)C)C2,<5.52,<5.52,<5.52,<5.52,<5.52
+12,COc1cc(OC)c2c(c1F)N(c1ccc3ncn(-c4cnn(C)c4)c(=O)c3c1)CCN(C(C)C)C2,5.8,5.73,5.69,<5.52,<5.52

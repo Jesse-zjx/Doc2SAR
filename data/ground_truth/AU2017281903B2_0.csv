@@ -1,0 +1,16 @@
+Compd #,SMILES,BRD9 IC50 (nM),BRD4 IC50 (µM),CRBN-DDB1 IC50 (nM)
+I-1,COc1cc(-c2cn(C)c(=O)c3cc(C(=N)NC4CCS(=O)(=O)CC4)sc23)ccc1OCC(=O)NCCCCNC(=O)COc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O,13.5,3.78,48.9
+I-2,COc1cc(-c2cn(C)c(=O)c3cc(C(=N)NC4CCS(=O)(=O)CC4)sc23)ccc1OCC(=O)NCCCCCCCCNC(=O)COc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O,18.9,3.39,43.7
+I-3,COc1cc(-c2cn(C)c(=O)c3cc(C(=N)NC4CCS(=O)(=O)CC4)sc23)ccc1OCC(=O)NCCCOCCOCCOCCCNC(=O)COc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O,36.5,3.14,49.5
+I-8,COc1cc(-c2cn(C)c(=O)c3cc(C(=N)NC4CCS(=O)(=O)CC4)sc23)ccc1OCC(=O)NCCCCCCOc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O,30.0,7.00,20.1
+I-7,COc1cc(-c2cn(C)c(=O)c3cc(C(=N)NC4CCS(=O)(=O)CC4)sc23)ccc1OCC(=O)N1CCC(C2CCN(C(=O)COc3cccc4c3C(=O)N(C3CCC(=O)NC3=O)C4=O)CC2)CC1,12.5,1.51,16.0
+I-13,COc1cc(-c2cn(C)c(=O)c3cc(C(=N)NC4CCS(=O)(=O)CC4)sc23)ccc1OCC(=O)NCCOCCOCCOCC(=O)N[C@H](C(=O)N1C[C@H](O)C[C@H]1C(=O)NCc1ccc(-c2scnc2C)cc1)C(C)(C)C,26.9,1.56,
+I-14,COc1cc(-c2cn(C)c(=O)c3cc(C(=N)NC4CCS(=O)(=O)CC4)sc23)ccc1OCC(=O)NCCOCCOCC(=O)N[C@H](C(=O)N1C[C@H](O)C[C@H]1C(=O)NCc1ccc(-c2scnc2C)cc1)C(C)(C)C,22.7,1.69,
+I-9,COc1cc(-c2cn(C)c(=O)c3cc(C(=N)NC4CCS(=O)(=O)CC4)sc23)ccc1OCC(=O)NCCCCCCCCNc1ccc2c(c1)C(=O)N(C1CCC(=O)NC1=O)C2=O,11.5,1.11,17.6
+I-5,COc1cc(-c2cn(C)c(=O)c3cc(C(=N)NC4CCS(=O)(=O)CC4)sc23)ccc1OCC(=O)NCCCCCCCCNc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O,15.5,1.56,10.8
+I-17,COc1cc(-c2cn(C)c(=O)c3cc(C(=N)NC4CCS(=O)(=O)CC4)sc23)ccc1OCC(=O)NCCCCCCCCNc1cccc2c1CN(C1CCC(=O)NC1=O)C2=O,12.3,1.71,11.2
+I-12,COc1cc(-c2cn(C)c(=O)c3cnccc23)cc(OC)c1CN(C)CC(=O)NCCCCCCNc1ccc2c(c1)C(=O)N(C1CCC(=O)NC1=O)C2=O,56.6,> 50 µM,8.50
+I-15,COc1cc(-c2cn(C)c(=O)c3cnccc23)cc(OC)c1CN(C)CC(=O)NCCCCCCCCNc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O,83.1,> 50 µM,8.35
+I-23,COc1cc(-c2cn(C)c(=O)c3cnccc23)cc(OC)c1CN(C)CC(=O)NCCOCCOCCOCC(=O)N[C@H](C(=O)N1C[C@H](O)C[C@H]1C(=O)NCc1ccc(-c2scnc2C)cc1)C(C)(C)C,43.2,> 50 µM,
+I-24,COc1cc(-c2cn(C)c(=O)c3cnccc23)cc(OC)c1CN(C)CC(=O)NCCCCCCCCNC(=O)COc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O,48.0,> 50 µM,14.8
+I-25,COc1cc(-c2cn(C)c(=O)c3cnccc23)cc(OC)c1CN(C)CC(=O)NCCOCCOCCNc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O,104.0,> 50 µM,31.3

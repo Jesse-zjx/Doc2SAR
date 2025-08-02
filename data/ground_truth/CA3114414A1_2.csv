@@ -1,0 +1,10 @@
+Example,SMILES,cAMP pIC50
+15,Cc1n[nH]c(Nc2nnc(-c3ccncc3F)c(-c3ccccc3F)n2)n1,6.3
+17,Cc1cnc(-c2nc(Nc3cccc(F)c3)nnc2-c2ccncc2F)o1,6.49
+21,Cc1ccc(Nc2nnc(-c3ccncc3F)c(-c3ccccc3F)n2)cn1,7.18
+22,OCc1ccc(Nc2nnc(-c3ccncc3F)c(-c3ccccc3F)n2)cn1,7.53
+23,COc1ccc(Nc2nnc(-c3ccncc3F)c(-c3ccccc3F)n2)cn1,6.98
+24,Fc1cnccc1-c1nnc(Nc2ccc(C(F)(F)F)nc2)nc1-c1ccccc1F,6.97
+31,Fc1cnccc1-c1nnc(Nc2nc(C3CC3)n[nH]2)nc1-c1ccccc1F,6.56
+38,CC(C)(O)c1ccc(Nc2nnc(-c3ccncc3F)c(-c3ccccc3F)n2)cn1,7.3
+39,OCc1ncc(Nc2nnc(-c3ccncc3F)c(-c3ccccc3F)n2)cn1,7.38

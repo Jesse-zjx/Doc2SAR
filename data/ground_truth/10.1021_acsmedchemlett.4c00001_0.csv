@@ -1,0 +1,9 @@
+Example No.,SMILES,IL-1β (IC50),IL-6 (IC50)
+2,C(F)(F)(F)c1ccc(Oc2ccc(-c3noc(CC(=C)C(=O)O)n3)cc2)nc1,0.7,1.2
+3,C(F)(F)(F)c1ccc(Oc2ccc(-c3noc(CC(=C)C(=O)O)n3)cc2)cn1,2.0,1.2
+4,C(F)(F)(F)c1cncc(Oc2ccc(-c3noc(CC(=C)C(=O)O)n3)cc2)c1,0.6,0.5
+7,C=C(Cc1nc(-c2ccc(Oc3cncc(Cl)c3)cc2)no1)C(=O)O,0.6,0.3
+8,C=C(Cc1nc(-c2ccc(Oc3cncc(F)c3)cc2)no1)C(=O)O,2.0,3.9
+9,C(F)(F)(F)c1ncc(Oc2ccc(-c3noc(CC(=C)C(=O)O)n3)cc2)cn1,2.4,2.9
+10,C=C(Cc1nc(-c2ccc(Oc3ccc(Cl)cn3)cc2)no1)C(=O)O,2.2,1.2
+20,C=C(Cc1nc(-c2ccc(Oc3ncccc3C)cc2)no1)C(=O)O,0.8,0.6

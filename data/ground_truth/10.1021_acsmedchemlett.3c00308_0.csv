@@ -1,0 +1,11 @@
+Example No.,SMILES,MSD ProbeDisp PARP7 IC50 (nM),NH1372 pSTAT1 EC50 (nM)
+1,C(F)(F)(F)c1cnc(N2CCN(C(=O)CCCCc3cc(C(F)(F)F)c(=O)[nH]n3)CC2)nc1,0.288,60.611
+6,C(F)(F)(F)c1cnc(N2CCN(C(=O)c3cccc(Cc4cc(C(F)(F)F)c(=O)[nH]n4)c3)CC2)nc1,0.405,128.7
+15,C(F)(F)(F)c1cnc(N2CCN(C(=O)CCCNc3cc(C(F)(F)F)c(=O)[nH]n3)CC2)nc1,0.263,71.941
+25,C(F)(F)(F)c1cnc(N2CCN(C(=O)[C@@H](O)CCNc3cc(C(F)(F)F)c(=O)[nH]n3)CC2)nc1,0.141,21.253
+27,C(F)(F)(F)c1cnc(N2CCN(C(=O)CC[C@@H]3CCCN3c3cc(C(F)(F)F)c(=O)[nH]n3)CC2)nc1,0.212,9.308
+31,C(F)(F)(F)c1cnc(N2CCN(C(=O)CC[C@@H]3CCCCN3c3cc(C(F)(F)F)c(=O)[nH]n3)CC2)nc1,0.671,172.23
+32,C(F)(F)(F)c1cnc(N2CCN(C(=O)CCCN(C)c3cc(C(F)(F)F)c(=O)[nH]n3)CC2)nc1,0.233,75.588
+36,C(F)(F)(F)c1cnc(N2CCN(C(=O)CCCN(CC)c3cc(C(F)(F)F)c(=O)[nH]n3)CC2)nc1,0.179,51.616
+44,C(F)(F)(F)c1cnc(N2CCN(C(=O)CCCN(c3ccccc3)c3cc(C(F)(F)F)c(=O)[nH]n3)CC2)nc1,0.151,74.082
+47,C(F)(F)(F)c1cnc(N2CCN(C(=O)CCC3Cc4ccccc4N3c3cc(C(F)(F)F)c(=O)[nH]n3)CC2)nc1,0.232,178.54

@@ -1,0 +1,15 @@
+Compound,Binding_pIC50,cAMP_pIC50,ED50_mg_per_kg,SMILES
+2,6.85,6.75,2.69,Clc1ccc([C@@H](c2ccc3nnn(C4CCCC4)c3c2)n2cncn2)cc1
+3,6.8,6.9,,Clc1ccc(C(c2ccc3nnn(C4CCCC4)c3c2)n2ccnc2)cc1
+7,6.69,7.44,3.28,CC(C)n1nnc2ccc(C(c3ccc(Cl)cc3)n3cncn3)cc21
+Intermediate 7,6.54,,,Clc1ccc(C(c2ccc3nnn(C4CCCC4)c3c2)n2cncn2)cc1
+8,6.45,6.62,,CCCCn1nnc2ccc(C(c3ccc(Cl)cc3)n3cncn3)cc21
+10,6.28,6.38,,Clc1ccc(C(c2ccc3nnn(-c4ccccc4)c3c2)n2ccnc2)cc1
+5,6.08,6.02,,Clc1ccc(Cn2nnc3ccc(C(c4ccc(Cl)cc4)n4ccnc4)cc32)cc1
+9,6.05,5.79,,c1ccc(C(c2ccc3nnn(C4CCCC4)c3c2)n2ccnc2)cc1
+4,6.03,6.47,,CC(C)CCn1nnc2ccc(C(c3ccc(Cl)cc3)n3ccnc3)cc21
+11,5.67,,,CC(c1ccccc1)n1nnc2ccc(C(c3ccc(Cl)cc3)n3ccnc3)cc21
+13,5.61,,,Clc1ccc(C(c2ccc3nnn(Cc4ccccc4)c3c2)n2ccnc2)cc1
+12,5.53,,,CC(C)n1nnc2ccc(C(c3ccc(Cl)cc3)n3ccnc3)cc21
+6,5.27,,,Cn1nnc2ccc(C(c3ccc(Cl)cc3)c3nccs3)cc21
+1,5.05,,>100,Clc1ccc([C@H](c2ccc3nnn(C4CCCC4)c3c2)n2cncn2)cc1

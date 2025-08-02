@@ -1,0 +1,9 @@
+Compound No.,SMILES,PANC-1 activity IC50 (nM)
+1,Oc1cc(N2CCc3c(nc(OCC45CCCN4CCC5)nc3N3CC4CCC(C3)N4)C2)c2c(Cl)cccc2c1,15.0
+6,CCc1c(F)ccc2cc(O)cc(-c3ncc4c(N5CC6CCC(C5)N6)cc(OC[C@@]56CCCN5C[C@H](F)C6)nc4c3F)c12,46
+7,c1(F)ccc2cc(O)cc(-c3ncc4c(N5CC6CCC(C5)N6)cc(OC[C@@]56CCCN5C[C@H](F)C6)nc4c3F)c2c1C#C,7.9
+8,c1cc(C#C)c2c(-c3ncc4c(N5CC6CC(C5)N6)cc(OC[C@]56CCCN5C[C@H](F)C6)nc4c3F)cc(O)cc2c1,9.5
+12,CC12CC(CN(c3cc(OC[C@@]45CCCN4C[C@H](F)C5)nc4c(F)c(-c5cc(O)cc6ccc(F)c(C#C)c56)ncc34)C1)N2,24
+13,c1cc2cc(O)cc(-c3ncc4c(N5CC6CCC(C5)N6)cc(C#C[C@]56CCCN5C[C@H](F)C6)nc4c3F)c2c(C#C)c1F,439
+14,CCc1c(F)ccc2cc(O)cc(-c3ncc4c(N5CC6CCC(C5)N6)cc(C#C[C@@]56CCCN5C[C@H](F)C6)nc4c3F)c12,305
+15,Oc1cc(-c2ncc3c(N4CC5CCC(C4)N5)cc(OC[C@@]45CCCN4C[C@H](F)C5)nc3c2F)c2c(F)cccc2c1,40

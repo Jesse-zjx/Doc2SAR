@@ -1,0 +1,7 @@
+﻿Example No.,SMILES,cGAS IC50 (μM)
+5,Cn1ncc(-c2cc(Cl)c(Cl)c3[nH]c4c(c23)CC(=O)NCC4CC(=O)O)n1,0.00512
+14A,C[C@@H]1C(=O)NCCc2[nH]c3c(Cl)c(Cl)cc(OCCCO)c3c21,0.0073
+16A,C(#N)COc1cc(Cl)c(Cl)c2[nH]c3c(c12)[C@H](C)C(=O)NCC3,0.00218
+80,COCCOc1cc(Cl)c(Cl)c2[nH]c3c(c12)[C@@H](C)C(=O)NCC3,0.00812
+138,C(#N)Cc1cc(Cl)c(Cl)c2[nH]c3c(c12)CC(=O)NC[C@H]3CC(C)(F)F,0.008
+171,COCC[C@@H]1CNC(=O)[C@@H](C)c2c1[nH]c1c(Cl)c(Cl)cc(NCCO)c21,0.00784

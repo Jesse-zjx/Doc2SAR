@@ -1,0 +1,10 @@
+化合物No.,SMILES,P—PRAS40 SW48(E545K) EC50(nM),P—PRAS40 SW48(H1047R) EC50(nM),P—PRAS40 SW48(親) EC50(nM),SW48(親)と比較したSW48(E545K)に対する選択性倍率,SW48(親)と比較したSW48(H1047R)に対する選択性倍率
+101,CC(C)[C@@H]1COC(=O)N1c1cn2c(n1)-c1ccc(O[C@@H](C)C(N)=O)cc1OCC2,32.8,32.2,68.2,2.1(p<0.001),2.1(p<0.001)
+102,C[C@H]1COC(=O)N1c1cn2c(n1)-c1ccc(N3CCC[C@H]3C(N)=O)cc1OCC2,16.6,16.4,39.2,2.4(p<0.001),2.4(p<0.001)
+103,NC(=O)[C@@H]1CCCN1c1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3C(F)(F)F)nc1-2,6.9,7.1,18.7,2.7(p=0.002),2.6(p=0.002)
+104,CC[C@@H]1COC(=O)N1c1cn2c(n1)-c1ccc(O[C@@H](C)C(N)=O)cc1OCC2,115,109,335,2.5(p=0.003),2.6(p=0.003)
+105,C[C@H](Oc1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3C(F)(F)F)nc1-2)C(N)=O,62.9,53.6,199,3.2(p=0.012),3.7(p=0.008)
+106,NC(=O)[C@@H]1CCCN1c1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3C(F)F)nc1-2,2.7,2.9,5.5,2.1(p<0.001),1.9(p<0.001)
+107,C[C@@H](Oc1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3C(F)F)nc1-2)C(N)=O,23.4,25.6,69.2,3.0(p<0.001),2.7(p<0.001)
+108,NC(=O)[C@@H]1CCCN1c1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3CF)nc1-2,2.9,2.6,6.2,2.1(p<0.001),2.2(p<0.001)
+109,C[C@H](Oc1ccc2c(c1)OCCn1cc(N3C(=O)OC[C@H]3CF)nc1-2)C(N)=O,33.2,28,74,2.2(p=0.02),2.6(p<0.001)

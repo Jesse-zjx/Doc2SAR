@@ -1,0 +1,8 @@
+"('Compound', 'MTP Assay Results')",SMILES,"('pIC50', 'MTP Assay Results')"
+Cmpd (A),CCN(CC)C(=O)C(c1ccccc1)N1CCN(c2ccc(NC(=O)c3ccccc3-c3cccnc3)cc2F)CC1,6.1
+(-)-Cmpd (A),CCN(CC)C(=O)C(c1ccccc1)N1CCN(c2ccc(NC(=O)c3ccccc3-c3cccnc3)cc2F)CC2,5.2
+(+)-Cmpd (A),CCN(CC)C(=O)C(c1ccccc1)N1CCN(c2ccc(NC(=O)c3ccccc3-c3cccnc3)cc2F)CC3,6.5
+Cmpd (B),CCNC(=O)C(c1ccccc1)N1CCN(c2ccc(NC(=O)c3ccccc3-c3cccnc3)cc2F)CC1,6.6
+(-)-Cmpd (B),CCNC(=O)C(c1ccccc1)N1CCN(c2ccc(NC(=O)c3ccccc3-c3cccnc3)cc2F)CC2,6.4
+(+)-Cmpd (B),CCNC(=O)C(c1ccccc1)N1CCN(c2ccc(NC(=O)c3ccccc3-c3cccnc3)cc2F)CC3,5.4
+Cmpd (C),CCN(CC)C(=O)C(c1ccccc1)N1CCN(c2ccc(NC(=O)c3ccccc3-c3ccccc3)cc2F)CC1,7.3

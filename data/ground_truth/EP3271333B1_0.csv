@@ -1,0 +1,21 @@
+No.,SMILES,Structure,IUPAC_Name,USP7 Ub-RhopreInc (IC50) µmol,USP7 Ub-Rho110 Fluor (IC50) µmol
+1,Cc1c(-c2ccc(O)cc2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[6-amino-5-(4-hydroxyphenyl)-4-methyl-3-pyridyl]phenol,,7.7
+2,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[6-amino-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]phenol,4.6,3
+3,CC(C)c1c(-c2ccc(O)cc2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[6-amino-5-(4-hydroxyphenyl)-4-isopropyl-3-pyridyl]phenol,,197
+4,COc1c(-c2ccc(O)cc2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[6-amino-5-(4-hydroxyphenyl)-4-methoxy-3-pyridyl]phenol,,29.1
+5,Nc1ncc(-c2ccc(O)cc2)c(C(F)(F)F)c1-c1ccc(O)cc1,[mol],4-[6-amino-5-(4-hydroxyphenyl)-4-(trifluoromethyl)-3-pyridyl]phenol,7.1,6
+6,CCCc1c(-c2ccc(O)cc2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[6-amino-5-(4-hydroxyphenyl)-4-propyl-3-pyridyl]phenol,,35.2
+7,CCc1c(-c2ccc(O)cc2F)cnc(N)c1-c1ccc(O)cc1,[mol],4-[6-amino-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]-3-fluoro-phenol,,4.5
+8,CCc1c(-c2cccc(NC(C)=O)c2)cnc(N)c1-c1ccc(O)cc1,[mol],N-[3-[6-amino-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]phenyl]acetamide,,45
+9,Nc1ncc(-c2ccc(O)cc2)c(C2CC2)c1-c1ccc(O)cc1,[mol],4-[6-amino-4-cyclopropyl-5-(4-hydroxyphenyl)-3-pyridyl]phenol,,56.6
+10,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1ccc(OC)cc1F,[mol],4-[6-amino-4-ethyl-5-(2-fluoro-4-methoxyphenyl)-3-pyridyl]phenol,13,7.5
+11,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1ccc(O)cc1F,[mol],4-[2-amino-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]-3-fluoro-phenol,,>20
+12,CCc1c(-c2cccc(CN(C)C)c2)cnc(N)c1-c1ccc(O)cc1,[mol],4-[2-amino-5-[3-[(dimethylamino)methyl]phenyl]-4-ethyl-3-pyridyl]phenol,,23.9
+13,CCc1c(-c2cccc(NC(C)=O)c2)cnc(N)c1-c1cccs1,[mol],N-[3-[6-amino-4-ethyl-5-(2-thienyl)-3-pyridyl]phenyl]acetamide,,>63.3
+14,CCc1c(-c2cccc(NC(C)=O)c2)cnc(N)c1-c1ccc2cn[nH]c2c1,[mol],N-[3-[6-amino-4-ethyl-5-(1H-indazol-6-yl)-3-pyridyl]phenyl] acetamide,136,
+15,CCCNc1ncc(-c2ccc(O)cc2)c(CC)c1-c1ccc(O)cc1,[mol],4-[4-ethyl-5-(4-hydroxyphenyl)-6-(propylamino)-3-pyridyl]phenol,10.1,
+16,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1ccccc1,[mol],4-(6-amino-4-ethyl-5-phenyl-3-pyridyl)phenol,60.7,
+17,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1cccc(C)c1,[mol],4-[6-amino-4-ethyl-5-(m-tolyl)-3-pyridyl]phenol,>63.3,
+18,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1ccc(F)c(F)c1,[mol],"4-[6-amino-5-(3,4-difluorophenyl)-4-ethyl-3-pyridyl]phenol",>20,
+19,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1cccc(C#N)c1,[mol],3-[2-amino-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]benzonitrile,9.9,
+20,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1ccc(S(C)(=O)=O)cc1,[mol],4-[6-amino-4-ethyl-5-(4-methylsulfonylphenyl)-3-pyridyl]phenol,>63.3,

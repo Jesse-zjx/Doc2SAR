@@ -1,0 +1,14 @@
+﻿Compd,SMILES,IC50(µM)a,TC50(µM)a
+TNA,Cc1coc2c1C(=O)C(=O)c1c-2ccc2c1CCCC2(C)C,5.15 ± 0.81,>100
+T1,Cc1c(S(=O)(=O)O)oc2c1C(=O)C(=O)c1c-2ccc2c1CCCC2(C)C,4.30 ± 0.78,>100
+T2,Cc1c(Br)oc2c1C(=O)C(=O)c1c-2ccc2c1CCCC2(C)C,5.21 ± 0.99,>100
+T3,Cc1c(-c2ccccc2)oc2c1C(=O)C(=O)c1c-2ccc2c1CCCC2(C)C,>40,>100
+T4,Cc1coc2c3ccc4c(c3c3ocnc3c12)CCCC4(C)C,>40,>100
+T5,Cc1coc2c1C(=O)C(=O)c1c-2ccc2c1C=CCC2(C)C,0.61 ± 0.24,61.76 ± 1.97
+T6,CC(=O)OC1CCC(C)(C)c2ccc3c(c21)C(=O)C(=O)c1c(C)coc1-3,1.25 ± 0.16,36.50 ± 1.0
+T7,COc1cc(/C=C/C(=O)OC2CCC(C)(C)c3ccc4c(c32)C(=O)C(=O)c2c(C)coc2-4)cc(OC)c1OC,9.11 ± 1.82,60.23 ± 0.88
+T8,Cc1coc2c1C(=O)C(=O)c1c-2ccc2c1C(OC(=O)CCCCC1CCSS1)CCC2(C)C,1.27 ± 0.24,26.75 ± 0.98
+T9,Cc1coc2c1C(=O)C(=O)c1c-2ccc2c1C(OC(=O)c1cc(Cl)ccc1Cl)CCC2(C)C,3.60 ± 0.64,19.70 ± 0.92
+T10,Cc1coc2c1C(=O)C(=O)c1c-2ccc2c1C(OC(=O)c1ccccc1O)CCC2(C)C,0.48 ± 0.17,30.8 ± 0.9
+T11,Cc1coc2c1C(=O)C(=O)c1c-2ccc2c1C(OC(=O)c1ccc(O)cc1)CCC2(C)C,2.57 ± 0.59,14.47 ± 0.97
+T12,Cc1coc2c1C(=O)C(=O)c1c-2ccc2c1C(OC(=O)c1cccc(O)c1)CCC2(C)C,5.53 ± 0.87,18.17 ± 0.95

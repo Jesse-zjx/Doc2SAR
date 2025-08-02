@@ -1,0 +1,7 @@
+Example No.,SMILES,hHSD17B13 IC50 (nM)
+36,CC(C)(C)n1cc(-c2ccc3cn([C@H]4CC[C@H](CNC(=O)c5cc(F)c(O)c(F)c5)CC4)nc3c2)cn1,2.7
+43,O=C(NC[C@H]1CC[C@H](n2cc3ccc(-c4cnn(C5CC5)c4)cc3n2)CC1)c1cc(F)c(O)c(F)c1,2.8
+44,O=C(NC[C@H]1CC[C@H](n2cc3ccc(-c4cnn(C(F)F)c4)cc3n2)CC1)c1cc(F)c(O)c(F)c1,<2.6
+48,O=C(NC[C@H]1CC[C@H](n2cc3ccc(-c4cnn5c4CCC5)cc3n2)CC1)c1cc(F)c(O)c(F)c1,3.2
+49,O=C(NC[C@H]1CC[C@H](n2cc3ccc(-c4cnn(C)c4)cc3n2)CC1)c1cc(F)c(O)c(F)c1,3.4
+56,C(#N)c1ccccc1-c1ccc2cn([C@H]3CC[C@H](CNC(=O)c4cc(F)c(O)c(F)c4)CC3)nc2c1,3.8

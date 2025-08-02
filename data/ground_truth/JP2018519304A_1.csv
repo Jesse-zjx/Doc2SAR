@@ -1,0 +1,10 @@
+化合物No.(米国特許第8242104号),SMILES,P-PRAS40SW48(E545K)EC50(μM),P-PRAS40SW48(H1047R)EC50(μM),P-PRAS40SW48(親)EC50(μM),SW48(親)と比較したSW48(E545K)に対する選択性倍率,SW48(親)と比較したSW48(H1047R)に対する選択性倍率
+196 タセリシブ GDC-0032,Cc1nc(-c2cn3c(n2)-c2ccc(-c4cnn(C(C)(C)C(N)=O)c4)cc2OCC3)n(C(C)C)n1,0.0034,0.004,0.0079,2.3(p<0.001),2.0(p<0.001)
+ビクチリシブ GDC-0941,CS(=O)(=O)N1CCN(Cc2cc3nc(-c4cccc5[nH]ncc45)nc(N4CCOCC4)c3s2)CC1,0.0284,0.0321,0.0315,1.1(p=0.7),1.0(p=0.9)
+375,CC(C)n1ncnc1-c1cn2c(n1)-c1ccc(N3CCC[C@H]3C(N)=O)cc1OCC2,0.0011,0.001,0.0016,1.4(p=0.23),1.5(p=0.20)
+436,CC(C)n1ncnc1-c1cn2c(n1)-c1ccc(O[C@@H](C)C(N)=O)cc1OCC2,0.0095,0.0092,0.0128,1.3(p=0.26),1.4(p=0.22)
+469,NC(=O)[C@@H]1CCCN1c1ccc2c(c1)OCCn1cc(-c3ncnn3CC(F)(F)F)nc1-2,0.0008,0.0009,0.001,1.8(p=0.04),1.6(p=0.11)
+486,C[C@H](Oc1ccc2c(c1)OCCn1cc(-c3ncnn3CC(F)(F)F)nc1-2)C(N)=O,0.0055,0.0059,0.0062,1.1(p=0.44),1.0(p=0.74)
+540,C[C@H](Oc1ccc2c(c1)OCCn1cc(-c3ncnn3C)nc1-2)C(N)=O,0.169,0.184,0.381,2.3(p=0.02),2.1(p=0.03)
+544,CCn1ncnc1-c1cn2c(n1)-c1ccc(O[C@@H](C)C(N)=O)cc1OCC2,0.0159,0.018,0.0477,3.0(p=0.01),2.6(p=0.01)
+356(米国特許第8263633号),CC(C)(O)Cn1cc(-c2ccc3c(c2)OCCc2sc(N4C(=O)OCC4(C)C)nc2-3)cn1,0.0768,0.0795,0.31,4.0(p<0.001),3.9(p<0.001)

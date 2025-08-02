@@ -1,0 +1,8 @@
+﻿compd,SMILES,Inhibition of Strand Transfera IC50(nM),Antiviral Activityb EC50(nM),Cytotoxicity(µM)
+7,O=C(O)c1c[nH]c2ccc(Cc3ccccc3)cc2c1=O,1600 ± 300,> 30000,> 30
+8,O=C(O)c1c[nH]c2ccc(Cc3cccc(Cl)c3F)cc2c1=O,43.5 ± 8.8,805.2 ± 225.0,> 12
+9,O=C(O)c1cn(CCO)c2ccc(Cc3cccc(Cl)c3F)cc2c1=O,24.2 ± 11.6,76.3 ± 3.7,> 15
+10,COc1cc2c(cc1Cc1cccc(Cl)c1F)c(=O)c(C(=O)O)cn2CCO,9.1 ± 2.1,17.1 ± 2.9,5.3 ± 1.1
+11,[C@@H](CO)(C(C)C)n1cc(C(=O)O)c(=O)c2cc(Cc3cccc(Cl)c3F)ccc21,8.2 ± 1.7,7.5 ± 0.8,14.0 ± 2.0
+12,[C@@H](CO)(C(C)C)n1cc(C(=O)O)c(=O)c2cc(Cc3cccc(Cl)c3F)c(OC)cc21,7.2 ± 2.2,0.9 ± 0.4,4.0 ± 0.8
+"5 (L-870,810)c",O=C(NCc1ccc(F)cc1)c1nc(N2CCCCS2(=O)=O)c2cccnc2c1O,22.8 ± 4.3,3.6 ± 0.4,0.7 ± 0.06

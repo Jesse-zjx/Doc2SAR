@@ -1,0 +1,5 @@
+﻿ID Binding,SMILES,hERG Inhibition (IC50 nM) Binding,hERG Inhibition (IC50 nM) QPatch
+IPAG,N=C(Nc1ccc(I)cc1)NC12CC3CC(CC(C3)C1)C2,491.4,2600
+1,N=C(NCCCOc1ccc(F)cc1)Nc1ccc(I)cc1,109.1,NA
+4,N=C(NCCCOc1ccc(F)cc1)Nc1ccc(Cl)cc1,216,430
+5,O(C)c1ccc(NC(=N)NCCCOc2ccc(F)cc2)cc1,416.8,NA

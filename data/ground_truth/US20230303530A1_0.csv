@@ -1,0 +1,6 @@
+Compound,SMILES,Rev-GFP/EC50 (nM)
+Compound I,S(F)(F)(F)(F)(F)c1cc(-c2ncn(/C=C\C(=O)NNc3cnccn3)n2)cc(C(F)(F)F)c1,12.0
+Compound II,S(F)(F)(F)(F)(F)c1cc(-c2ncn(/C=C\C(=O)NNc3ccccn3)n2)cc(C(F)(F)F)c1,28.5
+Compound III,S(F)(F)(F)(F)(F)c1cc(-c2ncn(/C=C\C(=O)NNC(=O)C(C)(C)C)n2)cc(C(F)(F)F)c1,211.4
+Compound IV,C(F)(F)(F)c1cc(-c2ncn(/C=C(/C(N)=O)c3cncnc3)n2)cc(S(F)(F)(F)(F)F)c1,14.8
+Compound VI,C(F)(F)(F)c1cc(-c2ncn(/C=C\C(=O)NNc3nccs3)n2)cc(S(F)(F)(F)(F)F)c1,25.2

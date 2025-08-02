@@ -1,0 +1,7 @@
+﻿Compound,SMILES,CD73 IC50 (nM)
+2,O=c1[nH]cc(-c2cc(N3C[C@@H](Oc4cc5c(cn4)cnn5CC(F)(F)F)C(F)(F)C3)nc(C(F)F)n2)c(=O)[nH]1,3.933
+4,O=c5[nH]cc(c4cc(N3C[C@H](Oc1cc2c(cn1)cnn2CC(F)(F)F)C(F)(F)C3)ncn4)c(=O)[nH]5,3.282
+8,c1(C#N)cc(N2C[C@H](Oc3cc4c(cn3)cnn4CC(F)(F)F)C(F)(F)C2)cc(-c2c[nH]c(=O)[nH]c2=O)n1,2.041
+9,N#Cc5nc(c1c[nH]c(=O)[nH]c1=O)cc(N4C[C@H](Oc2cc3c(cn2)cnn3CC(F)(F)F)C(F)(F)C4)n5,1.157
+22,Cc1nc(-c2c[nH]c(=O)[nH]c2=O)cc(N2C[C@H](Oc3cc4c(cn3)cnn4CC(F)F)C(F)(F)C2)n1,2.966
+27,Cc5nc(c1c[nH]c(=O)[nH]c1=O)cc(N4C[C@H](Oc2cc3c(cn2)nnn3CC(F)(F)F)C(F)(F)C4)n5,3.967

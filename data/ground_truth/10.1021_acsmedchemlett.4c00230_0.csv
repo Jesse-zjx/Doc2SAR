@@ -1,0 +1,7 @@
+Example No.,SMILES,CD73 IC50 (nM)
+28,Cn1nc(O[C@H](c2ccccc2)C(F)F)c2cc(-c3c[nH]c(=O)[nH]c3=O)nnc21,0.6
+31A,Cn1nc(O[C@H](c2ccccn2)C(F)F)c2cc(-c3c[nH]c(=O)[nH]c3=O)nnc21,1.0
+32A,Cn1nc(O[C@H](c2ccc(F)cn2)C(F)F)c2cc(-c3c[nH]c(=O)[nH]c3=O)nnc21,0.7
+33A,Cc1cccc([C@@H](Oc2nn(C)c3nnc(-c4c[nH]c(=O)[nH]c4=O)cc23)C(F)F)n1,0.8
+40,Cc1nc([C@@H](C)Oc2nn(C)c3nnc(-c4c[nH]c(=O)[nH]c4=O)cc23)ccc1F,1.3
+41,C[C@@H](Oc1nn(C)c2nnc(-c3c[nH]c(=O)[nH]c3=O)cc12)c1cccc(C)n1,1.4

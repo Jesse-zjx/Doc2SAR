@@ -1,0 +1,7 @@
+Ex. No.,SMILES,G12C IC50 (nM),G12D IC50 (nM)
+10,COc1nc2nc(C)nc(N[C@H](C)c3cccc(C(F)(F)F)c3F)c2cc1N1CCOCC1,13,10
+14,COc1nc2nc(C)nc(N[C@H](C)c3cccc(C(F)(F)F)c3F)c2cc1N1CC2CC(C1)O2,21,17
+21,COc1nc2nc(C)nc(N[C@H](C)c3cccc(C(F)(F)F)c3F)c2cc1N1CC[C@H](OC)[C@H](F)C1,12,9
+26,COc1nc2nc(C)nc(N[C@H](C)c3cccc(C(F)(F)F)c3F)c2cc1N1CCC[C@H](OC)C1,17,12
+27,COc1nc2nc(C)nc(N[C@H](C)c3cccc(C(F)(F)F)c3F)c2cc1N1CCC(OC)CC1,13,14
+48,CO[C@H]1CCN(c2cc3c(N[C@H](C)c4cccc(C(F)(F)F)c4F)nc(C)nc3nc2C)C[C@H]1F,18,13

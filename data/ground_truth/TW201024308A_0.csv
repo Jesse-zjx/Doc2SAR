@@ -1,0 +1,25 @@
+,SMILES,[M+H],Mut-B-Raf IC50 (µM),p-Erk EC50 (A375) (µM)
+1,O=S(=O)(c1ccc(Cl)cc1)N1CCC[C@@H](Nc2nccc(-c3c(-c4cccc(O)c4)nc4sccn34)n2)C1,567,0.006,0.011
+2,O=P(O)(O)Oc1cccc(-c2nc3sccn3c2-c2ccnc(N[C@@H]3CCCN(S(=O)(=O)c4ccc(Cl)cc4)C3)n2)c1,647,1.9,0.26
+3,O=P(O)(O)OCOc1cccc(-c2nc3sccn3c2-c2ccnc(N[C@@H]3CCCN(S(=O)(=O)c4ccc(Cl)cc4)C3)n2)c1,677,0.375,0.071
+4,O=S(=O)(c1ccc(Cl)cc1)N1CCC[C@@H](Nc2nccc(-c3c(-c4cccc(O)c4)nc4occn34)n2)C1,551,0.01,0.035
+5,O=P(O)(O)Oc1cccc(-c2nc3occn3c2-c2ccnc(N[C@@H]3CCCN(S(=O)(=O)c4ccc(Cl)cc4)C3)n2)c1,631,1.9,0.127
+6,O=P(O)(O)OCOc1cccc(-c2nc3occn3c2-c2ccnc(N[C@@H]3CCCN(S(=O)(=O)c4ccc(Cl)cc4)C3)n2)c1,661,1.41,0.012
+7,O=S(=O)(c1ccc(Cl)cc1)N1CCC(Nc2nccc(-c3c(-c4cccc(O)c4)nc4sccn34)n2)CC1,567,0.008,0.082
+8,O=P(O)(O)OCOc1cccc(-c2nc3sccn3c2-c2ccnc(NC3CCN(S(=O)(=O)c4ccc(Cl)cc4)CC3)n2)c1,677,0.405,0.938
+9,O=S(=O)(c1ccc(F)cc1)N1CCC(Nc2nccc(-c3c(-c4cccc(O)c4)nc4occn34)n2)CC1,535,0.048,0.129
+10,O=P(O)(O)Oc1cccc(-c2nc3occn3c2-c2ccnc(NC3CCN(S(=O)(=O)c4ccc(F)cc4)CC3)n2)c1,615,1.17,0.088
+11,O=S(=O)(C1CC1)N1CCC(Nc2nccc(-c3c(-c4cccc(O)c4)nc4occn34)n2)CC1,481,0.048,0.053
+12,O=P(O)(O)Oc1cccc(-c2nc3occn3c2-c2ccnc(NC3CCN(S(=O)(=O)C4CC4)CC3)n2)c1,561,>3.3,0.177
+13,O=P(O)(O)OCOc1cccc(-c2nc3occn3c2-c2ccnc(NC3CCN(S(=O)(=O)C4CC4)CC3)n2)c1,591,>3.3,0.161
+14,Cn1ccc(S(=O)(=O)N2CCC[C@@H](Nc3nccc(-c4c(-c5cccc(O)c5)nc5sccn45)n3)C2)n1,537,0.006,0.002
+15,Cn1ccc(S(=O)(=O)N2CCC[C@@H](Nc3nccc(-c4c(-c5cccc(OP(=O)(O)O)c5)nc5sccn45)n3)C2)n1,617,2.41,0.008
+16,Cn1ccc(S(=O)(=O)N2CCC[C@@H](Nc3nccc(-c4c(-c5cccc(OCOP(=O)(O)O)c5)nc5sccn45)n3)C2)n1,647,1.16,0.004
+17,Cn1ccc(S(=O)(=O)N2CCC[C@@H](Nc3nccc(-c4c(-c5cccc(O)c5)nc5occn45)n3)C2)n1,521,0.008,0.093
+18,Cn1ccc(S(=O)(=O)N2CCC[C@@H](Nc3nccc(-c4c(-c5cccc(OP(=O)(O)O)c5)nc5occn45)n3)C2)n1,601,>3.3,0.087
+19,Cn1ccc(S(=O)(=O)N2CCC[C@@H](Nc3nccc(-c4c(-c5cccc(OCOP(=O)(O)O)c5)nc5occn45)n3)C2)n1,631,2.92,0.095
+20,Cn1ccc(S(=O)(=O)N2CCC(Nc3nccc(-c4c(-c5cccc(O)c5)nc5occn45)n3)CC2)n1,521,0.013,0.073
+21,Cn1ccc(S(=O)(=O)N2CCC(Nc3nccc(-c4c(-c5cccc(OCOP(=O)(O)O)c5)nc5occn45)n3)CC2)n1,631,1.16,0.141
+22,Cn1ccc(S(=O)(=O)N2CCC[C@@H](Nc3nccc(-c4c(-c5ccc(F)c(O)c5)nc5occn45)n3)C2)n1,539,0.00096,0.034
+23,Cn1ccc(S(=O)(=O)N2CCC[C@@H](Nc3nccc(-c4c(-c5ccc(F)c(OP(=O)(O)O)c5)nc5occn45)n3)C2)n1,619,1.05,0.009
+24,Cn1ccc(S(=O)(=O)N2CCC[C@@H](Nc3nccc(-c4c(-c5ccc(F)c(OCOP(=O)(O)O)c5)nc5occn45)n3)C2)n1,649,0.028,0.052

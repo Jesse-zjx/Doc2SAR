@@ -1,0 +1,8 @@
+No.,SMILES,Structure,IUPAC_Name,USP7 Ub-Rhoprelnc (IC50) µmol,USP7 Ub-Rho110 Fluor (IC50) µmol
+21,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1ccc(NC(=O)OC(C)(C)C)cc1,[mol],tert-butyl N-[4-[2-amino-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]phenyl]carbamate,>20,
+22,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1cccc(N2CCOCC2)c1,[mol],4-[6-amino-4-ethyl-5-(3-morpholinophenyl)-3-pyridyl]phenol,>63.3,
+23,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1cccc(CNC(=O)OC(C)(C)C)c1,[mol],tert-butyl N-[[3-[2-amino-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]phenyl]methyl]carbamate,>6.3,
+24,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1cccc(COC)c1,[mol],4-[6-amino-4-ethyl-5-[3-(methoxymethyl)phenyl]-3-pyridyl]phenol,>63.3,
+25,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1ccc(COC)cc1,[mol],4-[6-amino-4-ethyl-5-[4-(methoxymethyl)phenyl]-3-pyridyl]phenol,63.3++,
+26,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1cccc(CN2CCOCC2)c1,[mol],4-[6-amino-4-ethyl-5-[3-(morpholinomethyl)phenyl]-3-pyridyl]phenol,145,
+27,CCc1c(-c2ccc(O)cc2)cnc(N)c1-c1cccc(CC#N)c1,[mol],2-[3-[2-amino-4-ethyl-5-(4-hydroxyphenyl)-3-pyridyl]phenyl]acetonitrile,48.7,

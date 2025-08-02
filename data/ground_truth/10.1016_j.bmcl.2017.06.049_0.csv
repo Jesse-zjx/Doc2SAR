@@ -1,0 +1,4 @@
+﻿Compound,SMILES,EC50(µM)a,QlogPb,QlogSc,QPCacod,#mete,Aqueous solubilityf ug/mL pH 2.0,Aqueous solubilityf ug/mL pH 6.4,Aqueous solubilityf ug/mL pH 7.4,PBS stability (h)
+2,O=C(Nc1ccc(Oc2ncnc3cc(Cl)ccc23)nc1)c1ccc(-c2ccccn2)s1,3.1,4.2,−4.5,785.8,4,12.7,10.1,2.9,>48
+4,O=C(O[C@@H](O)CO)c1ccccc1Nc1ccnc2cc(Cl)ccc12,10.8,3.9,−5.2,520.5,5,48.3,32.1,6.1,>48
+5,C(F)(F)(F)Oc1ccc(NC(=O)CSCC(=O)NNC(=S)Nc2ccccc2)cc1,5.1,3.7,−5.2,1735.6,3,8.2,13.1,1.2,>48

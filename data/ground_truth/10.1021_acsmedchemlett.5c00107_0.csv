@@ -1,0 +1,7 @@
+﻿Example number,SMILES,Human mGluR2GIRK IC50(nM),Human mGluR3GIRK IC50(nM)
+7,Cn1cncc1-c1cc(-c2ccc(F)cc2F)cc2c1CNC2=O,34,">10,000"
+74,Cc1ncccc1-c1cc(-c2ccc(F)cc2F)cc2c1CNC2=O,51,">10,000"
+81,CCn1nccc1-c1cc(-c2ccc(F)cc2F)cc2c1CNC2=O,40,">10,000"
+82,Cc1cnn(C)c1-c1cc(-c2ccc(F)cc2F)cc2c1CNC2=O,59,">10,000"
+83,Cc1c(-c2cc(-c3ccc(F)cc3F)cc3c2CNC3=O)cnn1C,58,">10,000"
+84,Cc1nn(C)c(C)c1-c1cc(-c2ccc(F)cc2F)cc2c1CNC2=O,59,">10,000"

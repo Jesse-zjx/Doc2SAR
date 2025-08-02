@@ -1,0 +1,7 @@
+Example No.,SMILES,hOX2R IP IC50 (nM)
+17,COCC[C@H](c1nccc(F)c1F)N1C[C@@H](C(=O)NCc2ccc(-c3ccc(Cl)c(OC)n3)cc2)N(C(=O)C(C)C)[C@H](C)C1,4.611
+19,COCC[C@H](c1nccc(C)c1F)N1C[C@@H](C)N(C(=O)C(C)C)[C@@H](C(=O)NCc2ccc(-c3ccc(C)c(OC)n3)cc2)C1,3.124
+20-1,COCC[C@H](c1nccc(C)c1F)N1C[C@@H](C)N(C(=O)C(C)C)[C@@H](C(=O)NCc2ccc(-c3ccc(F)c(OC)n3)cc2)C1,3.309
+20-2,COCC[C@@H](c1nccc(C)c1F)N1C[C@@H](C)N(C(=O)C(C)C)[C@@H](C(=O)NCc2ccc(-c3cc(OC)cc(OC)n3)cc2)C1,2.682
+25,COCC[C@H](c1nccc(C)c1F)N1C[C@@H](C)N(C(=O)C(C)C)[C@@H](C(=O)NCc2ccc(-c3cccc(OC)n3)cc2)C1,3.008
+29,COCC[C@H](c1nccc(C)c1F)N1C[C@@H](C)N(C(=O)C(C)C)[C@@H](C(=O)NCc2ccc(C#CC3CC3)cc2)C1,4.397

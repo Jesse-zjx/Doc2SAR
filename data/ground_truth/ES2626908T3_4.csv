@@ -1,0 +1,4 @@
+Comp. #,SMILES,EC50(nM)
+Compuesto ilustrativo 1,O=C(Nc1nc2cccc(-c3ccc(CN4CCS(=O)(=O)CC4)cc3)n2n1)C1CC1,922.5; 625.6; 987.7; 1767
+Compuesto comparativo 2,O=C(Nc1nc2cccc(-c3ccc(CN4CCOCC4)cc3)n2n1)C1CC1,">10000, 3322, 2492"
+Compuesto comparativo 11,O=C(Nc1nc2cccc(-c3ccc(CN4CCC(F)(F)CC4)cc3)n2n1)C1CC1,740.4

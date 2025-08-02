@@ -1,0 +1,27 @@
+Compound,SMILES,pfDHODH IC50 µM,3D7 EC50 µM,Dd2 EC50 µM
+1,CCCNC(=O)c1ccc(-n2c(C)cc3ccccc32)s1,0.064 (Hu: >30),0.386,0.493
+13,CCCNC(=O)c1ccc(N2CCOCC2)s1,>250,>10,>10
+14,CCCNC(=O)c1ccc(N2CCCC2)s1,>250,>10,>10
+8,CCCNC(=O)c1ccc(N2CCCCC2)s1,230,>10,>10
+11,CCCNC(=O)c1ccc(-n2cnc3ccccc32)s1,0.703 (Hu: >30),0.472,1.102
+9,CCCNC(=O)c1ccc(-n2cccn2)s1,>250,>10,>10
+10,CCCNC(=O)c1ccc(N2CCN(C)CC2)s1,>250,>10,>10
+15,CCCNC(=O)c1ccc(-n2ccnc2)s1,165,>10,>10
+16,CCCNC(=O)c1ccc(-n2cnc3cncnc32)s1,Not done,>10,>10
+12,CCCNC(=O)c1ccc(-n2c(C)nc3ccccc32)s1,0.172 (Hu: >30),0.628,Not done
+17,CCCNC(=O)c1ccc(N2CC(C)Sc3ccccc32)s1,19.1,>10,>10
+18,CCCNC(=O)c1ccc(N2CCSc3ccccc32)s1,9.2,>10,>10
+19,CCCNC(=O)c1ccc(N2CCOc3ccc(Cl)cc32)s1,7.5,>10,>10
+20,CCCNC(=O)c1ccc(N2CCc3ccccc32)s1,>30,>10,>10
+21,CCCNC(=O)c1ccc(N2CCSc3ncccc32)s1,13.8,>10,>10
+22,CCCNC(=O)c1ccc(N2Cc3cccc(OC)c3Oc3ncccc32)s1,>30,>10,>10
+23,O=C(NC1CC1)c1ccc(-n2cnc3ccccc32)s1,0.056 (Hu: >30),0.079,0.088
+24,CNC(=O)c1ccc(-n2cnc3ccccc32)s1,1.076 (Hu: >30),0.276,0.422
+25,CCNC(=O)c1ccc(-n2cnc3ccccc32)s1,0.145 (Hu: >30),0.102,0.154
+26,O=C(c1ccc(-n2cnc3ccccc32)s1)N1CCCC1,>30,10,20
+27,CN(C)C(=O)c1ccc(-n2cnc3ccccc32)s1,>30,>40,>40
+28,NC(=O)c1ccc(-n2cnc3ccccc32)s1,>30,>40,20
+29,CCCCNC(=O)c1ccc(-n2cnc3ccccc32)s1,28.6,20,7.3
+30,O=C(NCCO)c1ccc(-n2cnc3ccccc32)s1,14.0 (Hu: >30),5.9,6.5
+31,Cc1nc2ccccc2n1-c1ccc(C(=O)NC2CC2)s1,0.099 (Hu: >30),0.066,0.106
+32,Cc1nc2ccccc2n1-c1ccc(C(=O)NC2CC2)s1,0.074 (Hu: >30),0.105,0.114

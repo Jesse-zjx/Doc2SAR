@@ -1,0 +1,14 @@
+﻿Compd,SMILES,T. brucei EC50[µM],TryR IC50[µM],GR IC50[µM],Tb EC50/TryR IC50,SI[a],Drug Score[b]
+A,O=C(O)c1ccc([Hg]Cl)cc1,0.00154,0.251,0.00501,0.00614,0.02,−
+B,O=c1c2ccccc2[se]n1-c1ccccc1,2.97,1.36,21.5,2.18,15.8,−
+C,C=CCc1ccccc1OCC(O)CNC1(C)CCC(C(C)(C)NC(=O)CBr)CC1,0.139,2.21,3.37,0.0629,1.52,0.07
+D,c1ccc2sc(C3(N4CCCCC4)CCCCC3)cc2c1,13.6,3.69,>100,4.39,>32.3,1.35
+E,CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21,5.04,3.80[c],>100,1.33,>26.3,1.29
+F,OCCN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1,7.67,4.88,>100,1.57,>20.5,1.79
+G,CC(C)(C)c1ccc(S(=O)(=O)/C=C/C#N)cc1,1.52,4.94,12.5,0.308,2.53,−1.52
+H,CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21,4.21,6.32,>100,0.666,>15.8,1.42
+I,CC(C)(NC(=O)CBr)C1CCC(O)(NCC(O)COc2cccc3[nH]ccc23)CC1,2.89,6.89,4.56,0.419,0.662,−0.13
+J,CN[C@@H]1C[C@@H](c2ccc(Cl)c(Cl)c2)c2ccccc21,1.97,7.26,>100,0.271,>13.8,0.65
+K,Clc1ccc2c(c1)N(CCCN1CCN(C)CC1)c1ccccc1S2,4.48,7.46,>100,0.601,>13.4,1.83
+L,C(F)(F)(F)c1ccc2c(c1)N(CCCN(C)C)c1ccccc1S2,1.73,7.53[d],>100,0.23,>13.3,1.58
+M,O(CCN1CCN(CCCc2ccccc2)CC1)C(c1ccccc1)c1ccccc1,9.3,10.9,>100,0.853,>9.17,0.57

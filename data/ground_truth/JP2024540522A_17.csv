@@ -1,0 +1,3 @@
+番号,SMILES,構造,IC50aJnk-1,IC50aMKK7cpb,KdcJnk1-ud,KdcJnk1-ae,Kdcp38α-ud,KdcERK2-ud
+2,CCCN(Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1)c1nc2ccccc2s1,[mol],> 100,7.8,11,>50,18,18
+3,CCCCN(Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1)c1nc(C)cc(C)n1,[mol],62,7.7,16,>50,17,32

@@ -1,0 +1,12 @@
+化合物编号,SMILES,JAK2 IC50(nM)
+1,O=C(Nc1nc2cccc(-c3ccc(CN4CCS(=O)(=O)CC4)cc3)n2n1)C1CC1,31.37、41.16、55.49、167.34
+2,O=C(Nc1nc2cccc(-c3ccc(CN4CCOCC4)cc3)n2n1)C1CC1,"38.73, 152.3, 184.7"
+3,O=C(Nc1nc2cccc(-c3cccc(CN4CCOCC4)c3)n2n1)C1CC1,
+4,O=C(Nc1nc2cccc(-c3ccc(N4CCOCC4)nc3)n2n1)C1CC1,
+5,O=C(Nc1nc2cccc(-c3ccc(N4CCOCC4)cc3)n2n1)C1CC1,1760
+6,CN1CCN(Cc2ccc(-c3cccc4nc(NC(=O)C5CC5)nn34)cc2)CC1,5070
+7,O=C(Nc1nc2cccc(-c3ccc(CN4CCCCC4)cc3)n2n1)C1CC1,6449
+8,NC(=O)C1CCN(Cc2ccc(-c3cccc4nc(NC(=O)C5CC5)nn34)cc2)CC1,"7731, 1355"
+9,CC(=O)N1CCN(Cc2ccc(-c3cccc4nc(NC(=O)C5CC5)nn34)cc2)CC1,848.7
+10,O=C(Nc1nc2cccc(-c3ccc(C(=O)N4CCS(=O)(=O)CC4)cc3)n2n1)C1CC1,65.42
+11,O=C(Nc1nc2cccc(-c3ccc(CN4CCC(F)(F)CC4)cc3)n2n1)C1CC1,15.51

@@ -1,0 +1,7 @@
+Example No.,SMILES,PLpro IC50 (uM)
+27,Cc1ccc(NC(=O)[C@H]2CCCCN2)cc1C(=O)N[C@H](C)c1cc(-c2cnn(C)c2)cc(-c2cccs2)c1,0.004
+62,Cc1cc(C(=O)NCc2cscn2)ccc1C(=O)N[C@H](C)c1cc(-c2cnn(C)c2)cc(-c2ccns2)c1,0.003
+63,Cc1cc(CNCc2cscn2)ccc1C(=O)N[C@@H](C)c1cc(-c2cnn(C)c2)cc(-c2ccns2)c1,0.003
+83,Cc1ccc(N2CCN(C)CC2)cc1C(=O)N[C@H](C)c1cc(-c2cnn(C)c2)cc(-c2cc(Cl)cnc2N)c1,0.003
+88,Cc1ccc(N2CCN(C)CC2)cc1C(=O)N[C@@H](C)c1cc(-c2cnn(C)c2)cc(-c2cccs2)c1,0.004
+91,Cc1ccc(N2CCNCC2)cc1C(=O)N[C@H](C)c1cc(-c2cnn(C)c2)cc(-c2cc(Cl)cnc2N)c1,0.004

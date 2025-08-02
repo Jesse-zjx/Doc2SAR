@@ -1,0 +1,12 @@
+Ex,SMILES,"Human A1 ReceptorIC50, µM",Human A1 ReceptorpKi,"Human A3 ReceptorIC50, µM",Human A3 ReceptorpKi
+1,Fc1cnccc1-c1nnc(Nc2cccnc2)nc1-c1cccnc1,19.01,5.02,,
+2,Fc1cccc(Nc2nnc(-c3ccncc3F)c(-c3cccnc3)n2)c1,7.44,5.43,,
+8,Fc1ccccc1-c1nc(Nc2cccnc2)nnc1-c1ccnc(C(F)(F)F)c1,,,1.35,5.99
+14,Cc1cc(Nc2nnc(-c3ccncc3F)c(-c3ccccc3F)n2)[nH]n1,2.2,5.96,27.12,4.68
+15,Cc1n[nH]c(Nc2nnc(-c3ccncc3F)c(-c3ccccc3F)n2)n1,1.18,6.23,43.48,4.48
+16,CNC(=O)Nc1nnc(-c2ccncc2F)c(-c2ccccc2F)n1,3.79,5.73,9.52,5.14
+18,CCc1n[nH]c(Nc2nnc(-c3ccncc3F)c(-c3ccccc3F)n2)n1,,5,,
+24,Fc1cnccc1-c1nnc(Nc2ccc(C(F)(F)F)nc2)nc1-c1ccccc1F,,5.58,,
+31,Fc1cnccc1-c1nnc(Nc2nc(C3CC3)n[nH]2)nc1-c1ccccc1F,,5,,
+38,CC(C)(O)c1ccc(Nc2nnc(-c3ccncc3F)c(-c3ccccc3F)n2)cn1,,6.26,,6.42
+39,OCc1ncc(Nc2nnc(-c3ccncc3F)c(-c3ccccc3F)n2)cn1,,6.19,,6.52

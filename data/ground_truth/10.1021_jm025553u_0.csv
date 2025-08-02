@@ -1,0 +1,8 @@
+﻿Compound,SMILES,Inhibition of Strand TransferaIC50(µM),Antiviral ActivitybCIC95(µM),Cytotoxicityc(µM)
+1,c1(Cc2ccccc2)cccc(C(=O)CC(=O)C(=O)O)c1,0.01 (n = 4),1.11 ± 0.61 (n = 16),> 50.00
+2,O=c1c2cc(Cc3ccccc3)ccc2oc2ccc(O)c(O)c12,0.60 (n = 2),6.00 (n = 1),3
+3,c1(Cc2ccccc2)cccc(C(=O)c2oc3cccnc3c2O)c1,1.00 (n = 2),> 50.00 (n = 1),12.5
+4,O=C(c1cccc(Cc2ccccc2)c1)c1ncc2cccnc2c1O,0.04 ± 0.02 (n = 4),6.20 ± 1.8 (n = 3),12.5
+5,O=C(c1cccc(Cc2ccccc2)c1)c1ccc2cccnc2c1O,0.37 ± 0.06 (n = 2),5.00 (n = 1),1.25
+6,O=C(c1cc(Cc2ccccc2)ccn1)c1ccc2cccnc2c1O,0.05 ± 0.01 (n = 2),2.50 (n = 1),2.5
+7,c1(Cc2ccccc2)cc(CN2CCCS2(=O)=O)cc(C(=O)c2ncc3cccnc3c2O)c1,0.01 (n = 1),0.39 ± 0.16 (n = 4),> 12.50

@@ -1,0 +1,7 @@
+Compound,SMILES,Receptor,Ki(nM) ± SEM,Selectivity,EC50(nM),% max of agonist
+BNAP,O=C(N[C@@H]1CC[C@@]2(O)[C@H]3Cc4ccc(O)c5c4[C@@]2(CCN3CC2CC2)[C@H]1O5)c1cc[n+](Cc2ccccc2)cc1,MOR,0.76 ± 0.09,—,4.8 ± 0.6,14.6 ± 0.9
+BNAP,O=C(N[C@@H]1CC[C@@]2(O)[C@H]3Cc4ccc(O)c5c4[C@@]2(CCN3CC2CC2)[C@H]1O5)c1cc[n+](Cc2ccccc2)cc2,KOR,3.46 ± 0.05,4.6 (κ/μ),2.9 ± 1.1,45.9 ± 1.7
+BNAP,O=C(N[C@@H]1CC[C@@]2(O)[C@H]3Cc4ccc(O)c5c4[C@@]2(CCN3CC2CC2)[C@H]1O5)c1cc[n+](Cc2ccccc2)cc3,DOR,722 ± 65,950 (δ/μ),107.6 ± 69.0,9.2 ± 2.2
+NAP,O=C(N[C@@H]1CC[C@@]2(O)[C@H](N(CC3CC3)CC3CC3)Cc3ccc(O)c4c3[C@]2(CC4)[C@H]1O)c1ccncc1,MOR,0.37 ± 0.07,—,1.1 ± 0.4,22.7 ± 0.8
+NAP,O=C(N[C@@H]1CC[C@@]2(O)[C@H](N(CC3CC3)CC3CC3)Cc3ccc(O)c4c3[C@]2(CC4)[C@H]1O)c1ccncc2,KOR,60.72 ± 5.58,163 (κ/μ),28.8 ± 14.4,45.5 ± 4.4
+NAP,O=C(N[C@@H]1CC[C@@]2(O)[C@H](N(CC3CC3)CC3CC3)Cc3ccc(O)c4c3[C@]2(CC4)[C@H]1O)c1ccncc3,DOR,277.51 ± 7.97,747 (δ/μ),15.2 ± 15.2,10.2 ± 3.1

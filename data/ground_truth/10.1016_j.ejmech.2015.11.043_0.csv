@@ -1,0 +1,11 @@
+﻿Compound*,SMILES,Activity(IC50 µM) T.b.r,Activity(IC50 µM) MCF7
+5aa,COC(=O)c1cc2c(F)c(F)c(-n3ccnc3)c(F)c2s1,129.9,>100
+5ab,COC(=O)c1cc2c(F)c(F)c(-n3cnc4ccccc43)c(F)c2s1,0.60,>100
+5ac,COC(=O)c1cc2c(F)c(F)c(Oc3ccccc3Br)c(F)c2s1,30.0,>25
+5ad,COC(=O)c1cc2c(F)c(F)c(Sc3ccccc3Br)c(F)c2s1,11.9,>25
+5ae,COC(=O)c1cc2c(F)c(F)c(Sc3ccc(CCCC)cc3)c(F)c2s1,67.2,>50
+5af,O(C)C(=O)CSc1c(F)c(F)c2cc(C(=O)OC)sc2c1F,>10,>25
+5ba,c1(C(=O)c2cc3c(F)c(F)c(-n4ccnc4)c(F)c3s2)ccccc1,33.0,>60
+5bb,c1(C(=O)c2cc3c(F)c(F)c(-n4cnc5ccccc54)c(F)c3s2)ccccc1,0.53,>25
+5bc,c1(C(=O)c2cc3c(F)c(F)c(Oc4ccccc4Br)c(F)c3s2)ccccc1,15.9,>25
+5bd,c1(C(=O)c2cc3c(F)c(F)c(Sc4ccccc4Br)c(F)c3s2)ccccc1,9.8,>25
